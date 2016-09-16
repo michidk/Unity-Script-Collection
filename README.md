@@ -24,7 +24,7 @@ Navigation:
 - [Post-Processing & Rendering](#post-processing--rendering)
 - [Mobile](#mobile)
 - [Misc](#misc)
-- [Editor](#editor)
+- [Editor](#editor-plugins)
   - [Editors](#editors)
   - [GUI](#gui)
   - [Importer](#importer)
@@ -162,7 +162,7 @@ Navigation:
 * [uREPL](https://github.com/hecomi/uREPL) - evaluation of c# expressions 
 * [TeaTime](https://github.com/alvivar/TeaTime) - timer queue for coroutine patterns
 
-## Editor
+## Editor Plugins
 * [REX Diagnostics](https://thorgeirk11.github.io/REX-Diagnostics/) - runtime evaluation of c# expressions 
 * [Unity File Debug](https://github.com/Sacred-Seed-Studio/Unity-File-Debug) - enhanced logging 
 * [MissingReferencesUnity](https://github.com/liortal53/MissingReferencesUnity) - find missing references
