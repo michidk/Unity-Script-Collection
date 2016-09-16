@@ -24,7 +24,7 @@ Navigation:
 - [Post-Processing & Rendering](#post-processing--rendering)
 - [Mobile](#mobile)
 - [Misc](#misc)
-- [Editor](#editor-plugins)
+- [Editor Plugins](#editor-plugins)
   - [Editors](#editors)
   - [GUI](#gui)
   - [Importer](#importer)
