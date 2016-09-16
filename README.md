@@ -81,10 +81,10 @@ Navigation:
 * [Ocean Community Next Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) - water physics/shader
 
 ## AI & Pathfinding
-* [A Star Pathfinding for Platformers](https://github.com/tutsplus/A-Star-Pathfinding-for-Platformers) - a* for platformers
-* [AStart](https://github.com/MaroMaroO/AStart/) - basic a* pathfinding
-* [Astar for Unity](https://github.com/sharpaccent/Astar-for-Unity) - a* pathfinding 
-* [A* Pathfinding Project](http://arongranberg.com/astar/) - alternative a* system
+* [A Star Pathfinding for Platformers](https://github.com/tutsplus/A-Star-Pathfinding-for-Platformers) - A* for platformers
+* [AStart](https://github.com/MaroMaroO/AStart/) - basic A* pathfinding
+* [Astar for Unity](https://github.com/sharpaccent/Astar-for-Unity) - A* pathfinding 
+* [A* Pathfinding Project](http://arongranberg.com/astar/) - A* pathfinding
 * [UnitySteer](https://github.com/ricardojmendez/UnitySteer) - steering, obstacle avoidance and path following behaviors
 
 ## Networking
@@ -194,7 +194,7 @@ Navigation:
 * [Node Inspector](https://github.com/nicloay/Node-Inspector) - node based inspector
 * [ColorBands](https://github.com/rstecca/ColorBands) - color bands
 * [Unity3D Rainbow Folders](https://github.com/PhannGor/unity3d-rainbow-folders) - folder icons
-* [Únity Themes](https://github.com/zios/unity-themes) - editor themes
+* [Unity Themes](https://github.com/zios/unity-themes) - editor themes
 
 ### Importer
 * [Unity Excel Importer Maker](https://github.com/tsubaki/Unity-Excel-Importer-Maker) - excel
