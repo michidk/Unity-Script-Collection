@@ -148,6 +148,7 @@ Navigation:
 * [VolumetricLights](https://github.com/SlightlyMad/VolumetricLights) - volumetric lights
 * [SonarFx](https://github.com/keijiro/SonarFx) - wave patterns 
 * [Cinematic Image Effects](https://bitbucket.org/Unity-Technologies/cinematic-image-effects) - cinematic image effects
+* [Ripple Effect](https://github.com/cjacobwade/HelpfulScripts/tree/master/RippleEffect) - distortion wave
 * [Moments](https://github.com/Chman/Moments) - gif recorder
 
 ## Mobile
@@ -167,9 +168,10 @@ Navigation:
 * [Unity File Debug](https://github.com/Sacred-Seed-Studio/Unity-File-Debug) - enhanced logging 
 * [MissingReferencesUnity](https://github.com/liortal53/MissingReferencesUnity) - find missing references
 * [Unity Resource Checker](https://github.com/handcircus/Unity-Resource-Checker) - resource analyzer
-* [compile time tracker](https://github.com/DarrenTsung/compile-time-tracker) - compile time tracker
+* [Compile Time Tracker](https://github.com/DarrenTsung/compile-time-tracker) - compile time tracker
 * [UnityStudio](https://github.com/RaduMC/UnityStudio) - unity asset export tool
-* [Screen Shooter](https://github.com/PhannGor/Screen-Shooter) - screenshot tool 
+* [Screen Shooter](https://github.com/PhannGor/Screen-Shooter) - takes screenshots with multiple resolutions
+* [Screenshot Tool](https://github.com/kinifi/unityeditor-screenshot-tool) - simple screenshot tool with selectable camera
 * [Script Templates for Unity](https://bitbucket.org/rotorz/script-templates-for-unity) - script templates
 * [Unity 2D Destruction](https://github.com/mjholtzem/Unity-2D-Destruction) - sprite destruction
 
