@@ -171,7 +171,7 @@ Navigation:
 * [Compile Time Tracker](https://github.com/DarrenTsung/compile-time-tracker) - compile time tracker
 * [UnityStudio](https://github.com/RaduMC/UnityStudio) - unity asset export tool
 * [Screen Shooter](https://github.com/PhannGor/Screen-Shooter) - takes screenshots with multiple resolutions
-* [Screenshot Tool](https://github.com/kinifi/unityeditor-screenshot-tool) - simple screenshot tool with selectable camera
+* [Screenshot Tool](https://github.com/kinifi/unityeditor-screenshot-tool) - simple screenshot tool
 * [Script Templates for Unity](https://bitbucket.org/rotorz/script-templates-for-unity) - script templates
 * [Unity 2D Destruction](https://github.com/mjholtzem/Unity-2D-Destruction) - sprite destruction
 
