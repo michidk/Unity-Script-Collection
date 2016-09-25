@@ -199,7 +199,7 @@ Navigation:
 * [Property Drawer Collection](https://github.com/anchan828/property-drawer-collection) - collection of property drawers
 * [Node Inspector](https://github.com/nicloay/Node-Inspector) - node based inspector
 * [ColorBands](https://github.com/rstecca/ColorBands) - color bands
-* [QuickEvent](https://www.assetstore.unity3d.com/en/#!/content/53869) - 
+* [QuickEvent](https://www.assetstore.unity3d.com/en/#!/content/53869) - persistent event handlers with static or dynamic values
 
 ### Importer
 * [Unity Excel Importer Maker](https://github.com/tsubaki/Unity-Excel-Importer-Maker) - excel
