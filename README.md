@@ -149,7 +149,7 @@ Navigation:
 * [SonarFx](https://github.com/keijiro/SonarFx) - wave patterns 
 * [Cinematic Image Effects](https://bitbucket.org/Unity-Technologies/cinematic-image-effects) - cinematic image effects
 * [Ripple Effect](https://github.com/cjacobwade/HelpfulScripts/tree/master/RippleEffect) - distortion wave
-* [Moments](https://github.com/Chman/Moments) - gif recorder
+* [Moments](https://github.com/Chman/Moments) - recorder
 
 ## Mobile
 * [Toast](https://gist.github.com/TarasOsiris/dec42cf3ecca6c854182f385e38dbf57) - android toast notifications
@@ -165,29 +165,33 @@ Navigation:
 
 ## Editor Plugins
 * [REX Diagnostics](https://thorgeirk11.github.io/REX-Diagnostics/) - runtime evaluation of c# expressions 
+* [Better Defines](https://github.com/TarasOsiris/Better-Defines) - platform dependent preprocessor directive manager
 * [Unity File Debug](https://github.com/Sacred-Seed-Studio/Unity-File-Debug) - enhanced logging 
 * [MissingReferencesUnity](https://github.com/liortal53/MissingReferencesUnity) - find missing references
 * [Unity Resource Checker](https://github.com/handcircus/Unity-Resource-Checker) - resource analyzer
 * [Compile Time Tracker](https://github.com/DarrenTsung/compile-time-tracker) - compile time tracker
 * [UnityStudio](https://github.com/RaduMC/UnityStudio) - unity asset export tool
-* [Screen Shooter](https://github.com/PhannGor/Screen-Shooter) - takes screenshots with multiple resolutions
-* [Screenshot Tool](https://github.com/kinifi/unityeditor-screenshot-tool) - simple screenshot tool
+* [Screen Shooter](https://github.com/PhannGor/Screen-Shooter) - takes screenshots with multiple resolutions at once
 * [Script Templates for Unity](https://bitbucket.org/rotorz/script-templates-for-unity) - script templates
 * [Unity 2D Destruction](https://github.com/mjholtzem/Unity-2D-Destruction) - sprite destruction
+* [CurveTexture](https://github.com/slipster216/CurveTexture) - bake curves into texture 
+* [Unity3D Rainbow Folders](https://github.com/PhannGor/unity3d-rainbow-folders) - folder icons
+* [Unity Themes](https://github.com/zios/unity-themes) - editor themes
+* [Tree Randomizer](https://www.assetstore.unity3d.com/en/#!/content/59228) - randomize unity trees
+* [Render Settings Duplicator](https://www.assetstore.unity3d.com/en/#!/content/58831) - clones the render settings from one scene to another
 
 ### Editors
-* [Brainiac](https://github.com/daemon3000/Brainiac) - behaviour tree & node-based visual editor
-* [Node Editor](https://github.com/Baste-RainGames/Node_Editor) - node editor 
+* [Brainiac](https://github.com/daemon3000/Brainiac) - behaviour tree & (behaviour-)node-based visual editor
+* [Node Editor](https://github.com/Baste-RainGames/Node_Editor) - (calculation-)node editor
+* [BrotherhoodOfNode](https://github.com/aphex-/BrotherhoodOfNode/) - (more graphical-)node editor for visual things
 * [VisualNoiseDesigner](https://github.com/x0r04rg/VisualNoiseDesigner) - visual noise designer
 * [SimpleGeo](https://gist.github.com/phosphoer/8cccb00e20d9892af1438a795779bee0) - simple geometry painter
-* [curves and splines](http://catlikecoding.com/unity/tutorials/curves-and-splines/) - curve & spline editor 
+* [Curves and Splines](http://catlikecoding.com/unity/tutorials/curves-and-splines/) - curve & spline editor 
 * [Unity 2D Joint Editors](https://github.com/toxicFork/Unity-2D-Joint-Editors) - 2d joint editors
 * [PolyMesh](https://github.com/UnityPatterns/PolyMesh) - 2d shape editor
-* [Better Defines](https://github.com/TarasOsiris/Better-Defines) - platform dependent preprocessor directive manager
 * [VertexPaint](https://github.com/slipster216/VertexPaint) - vertex data painter
-* [CurveTexture](https://github.com/slipster216/CurveTexture) - bake curves into texture 
 
-### GUI
+### Inspector Extensions
 * [Reorderable Lists](https://bitbucket.org/rotorz/reorderable-list-editor-field-for-unity) - reorderable list field
 * [Ordered Dictionary](https://bitbucket.org/rotorz/ordered-dictionary-asset-for-unity) - ordered dictionary field
 * [ClassTypeReference](https://bitbucket.org/rotorz/classtypereference-for-unity) - class type reference field
@@ -195,8 +199,7 @@ Navigation:
 * [Property Drawer Collection](https://github.com/anchan828/property-drawer-collection) - collection of property drawers
 * [Node Inspector](https://github.com/nicloay/Node-Inspector) - node based inspector
 * [ColorBands](https://github.com/rstecca/ColorBands) - color bands
-* [Unity3D Rainbow Folders](https://github.com/PhannGor/unity3d-rainbow-folders) - folder icons
-* [Unity Themes](https://github.com/zios/unity-themes) - editor themes
+* [QuickEvent](https://www.assetstore.unity3d.com/en/#!/content/53869) - 
 
 ### Importer
 * [Unity Excel Importer Maker](https://github.com/tsubaki/Unity-Excel-Importer-Maker) - excel
@@ -250,7 +253,7 @@ Navigation:
 * [FLUnity](https://github.com/canab/flunity) - flash to unity
 * [Projeny](https://github.com/modesttree/projeny) - project management 
 * [CUDLR](https://github.com/proletariatgames/CUDLR) - remote debugging and logging console
-
+* [WebGL - Simple Loading Fix](http://designagame.eu/2016/09/is-unity-webgl-loading-a-simple-fix/) - custom loading bar for the webgl loader
 
 
 ## Source
