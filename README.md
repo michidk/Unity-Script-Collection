@@ -26,7 +26,7 @@ Navigation:
 - [Misc](#misc)
 - [Editor Plugins](#editor-plugins)
   - [Editors](#editors)
-  - [GUI](#gui)
+  - [Inspector Extensions](#inspector-extensions)
   - [Importer](#importer)
 - [Libraries](#libraries)
 - [API Extensions, Utils & Helper](#api-extensions,-utils--helper)
