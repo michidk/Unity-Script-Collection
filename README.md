@@ -2,7 +2,7 @@
 A collection of useful & **free** unity scripts / library's / plugins and extensions.
 
 If you have a resource which is not listed here, make a pull request or open an issue!
-Please report broken or outdated assets and spelling mistakes.
+Please report broken links, outdated assets and spelling mistakes.
 The links are in no particular order.
 
 Navigation:
@@ -24,7 +24,8 @@ Navigation:
 - [Post-Processing & Rendering](#post-processing--rendering)
 - [Mobile](#mobile)
 - [Misc](#misc)
-- [Editor Plugins](#editor-plugins)
+- [Editor](#editor)
+  - [Tools](#tools)
   - [Editors](#editors)
   - [Inspector Extensions](#inspector-extensions)
   - [Importer](#importer)
@@ -33,6 +34,7 @@ Navigation:
 - [Design Patterns](#design-patterns)
 - [Serialization](#serialization)
 - [Social SDKs](#social-sdks)
+- [Collections & Utils](#collections--utils)
 - [Other](#other)
 
 
@@ -113,6 +115,8 @@ Navigation:
 * [Flow Map Shader](https://gist.github.com/TarasOsiris/e0e6e6c3b8fdb0d8074b) - flow map shader working with sprites
 * [VertexPaint](https://github.com/slipster216/VertexPaint) - additional vertex streams
 * [ShaderProject](https://github.com/ellioman/ShaderProject) - shader collection
+* [Skybox Plus](https://github.com/keijiro/SkyboxPlus) - a collection of skybox shaders
+* [Outline Shader](https://gist.github.com/michidk/3b49362e21563a1d66d52f4cf4bdc7ce) - outline shader which accomodates screen width and camera distance
 
 ## Lightning
 * [SpriteLightKit](https://github.com/prime31/SpriteLightKit) - 2d sprite lights
@@ -148,7 +152,7 @@ Navigation:
 * [VolumetricLights](https://github.com/SlightlyMad/VolumetricLights) - volumetric lights
 * [SonarFx](https://github.com/keijiro/SonarFx) - wave patterns 
 * [Cinematic Image Effects](https://bitbucket.org/Unity-Technologies/cinematic-image-effects) - cinematic image effects
-* [Ripple Effect](https://github.com/cjacobwade/HelpfulScripts/tree/master/RippleEffect) - distortion wave
+* [Ripple Effect](https://twitter.com/chriswade__/status/776184020061356033) - distortion wave
 * [Moments](https://github.com/Chman/Moments) - recorder
 
 ## Mobile
@@ -158,12 +162,16 @@ Navigation:
 * [Google VR SDK](https://github.com/googlevr/gvr-unity-sdk) - google mobile vr sdk
 * [Unity Webview](https://github.com/gree/unity-webview) - webview overlay
 * [CUDLR](https://github.com/proletariatgames/CUDLR) - remote debugging and logging console
+* [Simplygon](https://www.assetstore.unity3d.com/en/?&_ga=1.224491866.1155275539.1473983191#!/content/10144) - mesh optimization & lod generation
 
 ## Misc
 * [uREPL](https://github.com/hecomi/uREPL) - evaluation of c# expressions 
 * [TeaTime](https://github.com/alvivar/TeaTime) - timer queue for coroutine patterns
+* [uDesktopDuplication](https://github.com/hecomi/uDesktopDuplication) - realtime screen capture as Texture2D
+* [Simplygon](https://www.assetstore.unity3d.com/en/?&_ga=1.224491866.1155275539.1473983191#!/content/10144) - mesh optimization & lod generation
 
-## Editor Plugins
+## Editor
+#### Tools
 * [REX Diagnostics](https://thorgeirk11.github.io/REX-Diagnostics/) - runtime evaluation of c# expressions 
 * [Better Defines](https://github.com/TarasOsiris/Better-Defines) - platform dependent preprocessor directive manager
 * [Unity File Debug](https://github.com/Sacred-Seed-Studio/Unity-File-Debug) - enhanced logging 
@@ -179,6 +187,7 @@ Navigation:
 * [Unity Themes](https://github.com/zios/unity-themes) - editor themes
 * [Tree Randomizer](https://www.assetstore.unity3d.com/en/#!/content/59228) - randomize unity trees
 * [Render Settings Duplicator](https://www.assetstore.unity3d.com/en/#!/content/58831) - clones the render settings from one scene to another
+* [Piviot Transform Helper](https://twitter.com/talecrafter/status/780812894502084609) - adds piviot creation shortcuts to the context menu
 
 ### Editors
 * [Brainiac](https://github.com/daemon3000/Brainiac) - behaviour tree & (behaviour-)node-based visual editor
@@ -190,6 +199,8 @@ Navigation:
 * [Unity 2D Joint Editors](https://github.com/toxicFork/Unity-2D-Joint-Editors) - 2d joint editors
 * [PolyMesh](https://github.com/UnityPatterns/PolyMesh) - 2d shape editor
 * [VertexPaint](https://github.com/slipster216/VertexPaint) - vertex data painter
+* [SabreCSG](https://github.com/sabresaurus/SabreCSG) - a set of level design tools for building complex levels
+* [Constants Generator Kit](https://github.com/LostPolygon/ConstantsGeneratorKit) - generates static classes for layers, scenes, tags and resources
 
 ### Inspector Extensions
 * [Reorderable Lists](https://bitbucket.org/rotorz/reorderable-list-editor-field-for-unity) - reorderable list field
@@ -200,6 +211,7 @@ Navigation:
 * [Node Inspector](https://github.com/nicloay/Node-Inspector) - node based inspector
 * [ColorBands](https://github.com/rstecca/ColorBands) - color bands
 * [QuickEvent](https://www.assetstore.unity3d.com/en/#!/content/53869) - persistent event handlers with static or dynamic values
+* [Reorder Components](https://twitter.com/mrpodunkian/status/715309192886624256) - reorder components on your GameObjects
 
 ### Importer
 * [Unity Excel Importer Maker](https://github.com/tsubaki/Unity-Excel-Importer-Maker) - excel
@@ -237,12 +249,17 @@ Navigation:
 * [Full Serializer](https://github.com/jacobdufault/fullserializer) - custom serializer
 
 ## Social SDKs
-* [Google Analytics Plugin](https://github.com/googleanalytics/google-analytics-plugin-for-unity) - google analytics
-* [Google Play Games Plugin](https://github.com/playgameservices/play-games-plugin-for-unity) - google play plugin
-* [Facebook SDK](https://github.com/facebook/facebook-sdk-for-unity) - facebook sdk
+* [Google Analytics Plugin](https://github.com/googleanalytics/google-analytics-plugin-for-unity) - Google Analytics
+* [Google Play Games Plugin](https://github.com/playgameservices/play-games-plugin-for-unity) - Google Play plugin
+* [Facebook SDK](https://github.com/facebook/facebook-sdk-for-unity) - Facebook sdk
 * [Reign Unity Plugin](https://github.com/reignstudios/Reign-Unity-Plugin5) - unified mobile api
 * [GetSocial SDK](https://github.com/getsocial-im/getsocial-unity-sdk) - community api
 * [SOOMLA Framework](https://github.com/soomla/unity3d-store) - store api
+* [Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET) - c# wrapper for valve's Steamworks API
+* [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - a more c#pier Steamworks API, not all features implemented though
+
+## Collections & Utils
+* [UtilityKit](https://github.com/prime31/UtilityKit) - SerializationUtil, SpriteAnimator, SpriteAnimator, MathHeloers, AutoSnap, ...
 
 ## Other
 * [Unity Right Click](https://gist.github.com/adamtuliper/48a6e2ce3d9b5e72be36) - windows context menu extension: 'open with unity'
@@ -254,6 +271,8 @@ Navigation:
 * [Projeny](https://github.com/modesttree/projeny) - project management 
 * [CUDLR](https://github.com/proletariatgames/CUDLR) - remote debugging and logging console
 * [WebGL - Simple Loading Fix](http://designagame.eu/2016/09/is-unity-webgl-loading-a-simple-fix/) - custom loading bar for the webgl loader
+* [Remove Boo.Lang and UnityScript Hints](https://gist.github.com/jbevain/a982cc580fb796c93e4e) - Project Generation Hook to remove references to Boo.Lang and UnityScript assemblies
+
 
 
 ## Source
