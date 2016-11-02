@@ -30,7 +30,7 @@ Navigation:
   - [Inspector Extensions](#inspector-extensions)
   - [Importer](#importer)
 - [Libraries](#libraries)
-- [API Extensions, Utils & Helper](#api-extensions,-utils--helper)
+- [API Extensions & Helper](#api-extensions--helper)
 - [Design Patterns](#design-patterns)
 - [Serialization](#serialization)
 - [Social SDKs](#social-sdks)
@@ -171,6 +171,7 @@ Navigation:
 * [Simplygon](https://www.assetstore.unity3d.com/en/?&_ga=1.224491866.1155275539.1473983191#!/content/10144) - mesh optimization & lod generation
 
 ## Editor
+
 #### Tools
 * [REX Diagnostics](https://thorgeirk11.github.io/REX-Diagnostics/) - runtime evaluation of c# expressions 
 * [Better Defines](https://github.com/TarasOsiris/Better-Defines) - platform dependent preprocessor directive manager
@@ -224,7 +225,7 @@ Navigation:
 * [Json.Net](https://github.com/SaladLab/Json.Net.Unity3D) - Newtonsoft Json.NET
 * [NVIDIA Hair Works Integration](https://github.com/unity3d-jp/NVIDIAHairWorksIntegration) - Nvidia hair works
 
-## API Extensions, Utils & Helper
+## API Extensions & Helper
 * [Camera Extension](https://gist.github.com/TarasOsiris/a8904989c18424bcdf73) - a better way of manipulating the culling mask
 * [Download Manager](https://gist.github.com/asus4/2490117) - simple file downloads
 * [UnityMainThreadDispatcher](https://github.com/PimDeWitte/UnityMainThreadDispatcher) - main thread dispatcher
