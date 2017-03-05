@@ -1,7 +1,7 @@
-# Unity-Script-Collection
-A collection of useful & **free** unity scripts / library's / plugins and extensions.
+# Unity Script Collection
+A maintained collection of useful & **free** unity scripts / library's / plugins and extensions.
 
-If you have a resource which is not listed here, make a pull request or open an issue!
+If you want to suggest a link, then read the [Contribution Guidelines](CONTRIBUTING.md) first.
 Please report broken links, outdated assets and spelling mistakes.
 The links are in no particular order.
 
@@ -38,28 +38,41 @@ Navigation:
 - [Other](#other)
 
 
-## GameObjects
-* [list view framework](https://bitbucket.org/Unity-Technologies/list-view-framework) - create dynamic, scrollable lists
+## GameObjects & Transforms
 * [RecyclerKit](https://github.com/prime31/RecyclerKit) - pooling system
+* [UnityOctree](https://github.com/Nition/UnityOctree) - octrees
+* [In-Game Replay System](https://github.com/FeNo/InGameReplay) - record and replay transforms
+
+## Movement & Animation
+* [List View Framework](https://bitbucket.org/Unity-Technologies/list-view-framework) - create dynamic, scrollable lists
+* [Reaktion](https://github.com/keijiro/Reaktion) - audio reaction toolkit
+* [DOTween](https://github.com/Demigiant/dotween) - tween engine
+* [UnitySpritesAndBones](https://github.com/Banbury/UnitySpritesAndBones) - skeletal sprite animations
+* [spine-unity](https://github.com/EsotericSoftware/spine-runtimes/tree/master/spine-unity) - import spine animations
 
 ## Controls & Input
 * [InputManager](https://github.com/daemon3000/InputManager) - a powerful input manager
 * [TouchScript](https://github.com/TouchScript/TouchScript) - multitouch library
 
-## Movement
+## Character Controller
 * [Unity 2D Platformer Controller](https://github.com/cjddmut/Unity-2D-Platformer-Controller) - 2d platformer character controller
 * [CharacterController2D](https://github.com/prime31/CharacterController2D) - 2d character controller
 * [SuperCharacterController](https://github.com/IronWarrior/SuperCharacterController) - 3d character controller
-* [DOTween](https://github.com/Demigiant/dotween) - tween engine
+
+## AI & Pathfinding
+* [A Star Pathfinding for Platformers](https://github.com/tutsplus/A-Star-Pathfinding-for-Platformers) - A* for platformers
+* [AStart](https://github.com/MaroMaroO/AStart/) - basic A* pathfinding
+* [Astar for Unity](https://github.com/sharpaccent/Astar-for-Unity) - A* pathfinding 
+* [A* Pathfinding Project](http://arongranberg.com/astar/) - A* pathfinding
+* [UnitySteer](https://github.com/ricardojmendez/UnitySteer) - steering, obstacle avoidance and path following behaviors
+
+## Physics
+* [Mario Galaxy Gravity for Unity](https://gist.github.com/phosphoer/a283cdbeca5d2160d5eed318d0362826) - mario galaxy gravity
+* [Ocean Community Next Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) - water physics/shader
 
 ## Particles
 * [KvantSpray](https://github.com/keijiro/KvantSpray) - gpu accelerated particles
-
-## Animation
-* [UnitySpritesAndBones](https://github.com/Banbury/UnitySpritesAndBones) - skeletal sprite animations
-* [spine-unity](https://github.com/EsotericSoftware/spine-runtimes/tree/master/spine-unity) - import spine animations
-* [Reaktion](https://github.com/keijiro/Reaktion) - audio reaction toolkit
-* [DOTween](https://github.com/Demigiant/dotween) - tween engine
+* [NVIDIA Hair Works Integration](https://github.com/unity3d-jp/NVIDIAHairWorksIntegration) - Nvidia hair works
 
 ## Meshes & Construction
 * [ProceduralToolkit](https://github.com/Syomus/ProceduralToolkit) - procedural mesh toolkit/generator 
@@ -69,45 +82,10 @@ Navigation:
 * [Voxelmetric](https://github.com/Voxelmetric/Voxelmetric) - voxel framework
 * [Procedural Shapes for Unity](https://bitbucket.org/alexzzzz/procedural-shapes-for-unity) - procedural shapes
 * [ICO Sphere Mesh Creator](https://github.com/kaiware007/IcoSphreCreator) - procedural ico spheres
-
-## 2D
-* [UnitySVG](https://github.com/MrJoy/UnitySVG) - svg renderer
-* [UnityStbEasyFont](https://github.com/aras-p/UnityStbEasyFont) - text mesh generator
-* [SpriteLightKit](https://github.com/prime31/SpriteLightKit) - 2d sprite lights
-* [2D Light of Sight Unity](https://github.com/f15gdsy/2D-Light-of-Sight-Unity) - 2d flat geometric lightning
-* [Fungus](https://github.com/snozbot/fungus) - 2d interactive storytelling game framework
-* [PolyMesh](https://github.com/UnityPatterns/PolyMesh) - 2d shape editor
-
-## Physics
-* [Mario Galaxy Gravity for Unity](https://gist.github.com/phosphoer/a283cdbeca5d2160d5eed318d0362826) - mario galaxy gravity
-* [Ocean Community Next Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) - water physics/shader
-
-## AI & Pathfinding
-* [A Star Pathfinding for Platformers](https://github.com/tutsplus/A-Star-Pathfinding-for-Platformers) - A* for platformers
-* [AStart](https://github.com/MaroMaroO/AStart/) - basic A* pathfinding
-* [Astar for Unity](https://github.com/sharpaccent/Astar-for-Unity) - A* pathfinding 
-* [A* Pathfinding Project](http://arongranberg.com/astar/) - A* pathfinding
-* [UnitySteer](https://github.com/ricardojmendez/UnitySteer) - steering, obstacle avoidance and path following behaviors
-
-## Networking
-* [UNet Authoritative Networking](https://github.com/atrakeur/unity-unet-authoritative-networking) - authoritative networking implementation
-
-## VR
-* [SteamVR Unity Toolkit](https://github.com/thestonefox/SteamVR_Unity_Toolkit) - contains useful scripts for building VR titles
-* [OpenVR](https://github.com/ValveSoftware/openvr) - steamvr/openvr
-* [Google VR SDK](https://github.com/googlevr/gvr-unity-sdk) - google mobile vr sdk
-* [HoloToolkit](https://github.com/Microsoft/HoloToolkit-Unity) - hololens toolkit
-
-## Sound & Music
-* [usfxr](https://github.com/zeh/usfxr) - procedual audio effects
-* [Reaktion](https://github.com/keijiro/Reaktion) - audio reaction toolkit
-
-## UI
-* [Unity UI Extensions](https://bitbucket.org/ddreaper/unity-ui-extensions) - collection of ui extensions
-* [Book Page Curl](https://github.com/Dandarawy/Unity3DBookPageCurl) - page curl transition
-* [Open Pause Menu](https://github.com/GreatArcStudios/unitypausemenu) - read-to-use pause menu
-* [Lunar Mobile Console](https://github.com/SpaceMadness/lunar-unity-console) - debug console for mobiles
-* [InfinityScroll](https://github.com/ivomarel/InfinityScroll) - infinite scrollrects
+* [Vertex Painter](https://github.com/slipster216/VertexPaint) - paint information onto vertices
+* [FacePaint](https://github.com/SixWays/FacePaint) - paint triangles of meshes
+* [Simplygon](https://www.assetstore.unity3d.com/en/?&_ga=1.224491866.1155275539.1473983191#!/content/10144) - mesh optimization & lod generation
+* [TextMesh Pro](https://www.assetstore.unity3d.com/en/#!/content/17662) - generate text with custom styling
 
 ## Materials & Shading
 * [Projects by RM](https://www.assetstore.unity3d.com/en/#!/content/21648) - wet surface & skin shader
@@ -117,10 +95,38 @@ Navigation:
 * [ShaderProject](https://github.com/ellioman/ShaderProject) - shader collection
 * [Skybox Plus](https://github.com/keijiro/SkyboxPlus) - a collection of skybox shaders
 * [Outline Shader](https://gist.github.com/michidk/3b49362e21563a1d66d52f4cf4bdc7ce) - outline shader which accomodates screen width and camera distance
+* [Unity Sprite Uber Shader](https://github.com/traggett/UnitySpriteShaders) - 3D shading for sprites (e.g. normal mapping)
 
-## Lightning
+## 2D
+* [UnitySVG](https://github.com/MrJoy/UnitySVG) - svg renderer
+* [UnityStbEasyFont](https://github.com/aras-p/UnityStbEasyFont) - text mesh generator
 * [SpriteLightKit](https://github.com/prime31/SpriteLightKit) - 2d sprite lights
 * [2D Light of Sight Unity](https://github.com/f15gdsy/2D-Light-of-Sight-Unity) - 2d flat geometric lightning
+* [Unity Sprite Uber Shader](https://github.com/traggett/UnitySpriteShaders) - 3D shading for sprites (e.g. normal mapping)
+* [Fungus](https://github.com/snozbot/fungus) - 2d interactive storytelling game framework
+* [PolyMesh](https://github.com/UnityPatterns/PolyMesh) - 2d shape editor
+* [Unity Tilemap](https://github.com/toinfiniityandbeyond/unity-tilemap) - 2D tilemap editor
+
+## Networking
+* [UNet Authoritative Networking](https://github.com/atrakeur/unity-unet-authoritative-networking) - authoritative networking implementation
+
+## VR
+* [VRTK](https://github.com/thestonefox/VRTK) - contains useful scripts for building VR games
+* [NewtonVR](https://github.com/TomorrowTodayLabs/NewtonVR) - VR physics and interactions
+* [Cutie Keys](https://github.com/NormalVR/CutieKeys/) - VR keyboard
+
+## Sound & Music
+* [usfxr](https://github.com/zeh/usfxr) - procedual audio effects
+* [Reaktion](https://github.com/keijiro/Reaktion) - audio reaction toolkit (mac only)
+* [DefaultMicrophone](https://github.com/GabeBigBoxVR/UnityDefaultMicrophone) - gets the default microphone (windows only)
+
+## UI
+* [Unity UI Extensions](https://bitbucket.org/ddreaper/unity-ui-extensions) - collection of ui extensions
+* [Book Page Curl](https://github.com/Dandarawy/Unity3DBookPageCurl) - page curl transition
+* [Open Pause Menu](https://github.com/GreatArcStudios/unitypausemenu) - read-to-use pause menu
+* [Lunar Mobile Console](https://github.com/SpaceMadness/lunar-unity-console) - debug console for mobiles
+* [InfinityScroll](https://github.com/ivomarel/InfinityScroll) - infinite scrollrects
+* [TextMesh Pro](https://www.assetstore.unity3d.com/en/#!/content/17662) - generate text with custom styling
 
 ## Post-Processing & Rendering
 * [kode80SSR](https://github.com/kode80/kode80SSR) - screen-space reflections 
@@ -152,8 +158,10 @@ Navigation:
 * [VolumetricLights](https://github.com/SlightlyMad/VolumetricLights) - volumetric lights
 * [SonarFx](https://github.com/keijiro/SonarFx) - wave patterns 
 * [Cinematic Image Effects](https://bitbucket.org/Unity-Technologies/cinematic-image-effects) - cinematic image effects
-* [Ripple Effect](https://twitter.com/chriswade__/status/776184020061356033) - distortion wave
-* [Moments](https://github.com/Chman/Moments) - recorder
+* [Post-processing Stack](https://github.com/Unity-Technologies/PostProcessing) - multiple image effects in one pipeline
+* [Moments](https://github.com/Chman/Moments) - gif recorder
+* [uDesktopDuplication](https://github.com/hecomi/uDesktopDuplication) - realtime screen capture as Texture2D
+* [Heat Distortion Effect](https://twitter.com/minionsart/status/833967666780110849) - a shader which distorts the image behind, using a normal map
 
 ## Mobile
 * [Toast](https://gist.github.com/TarasOsiris/dec42cf3ecca6c854182f385e38dbf57) - android toast notifications
@@ -164,14 +172,11 @@ Navigation:
 * [CUDLR](https://github.com/proletariatgames/CUDLR) - remote debugging and logging console
 * [Simplygon](https://www.assetstore.unity3d.com/en/?&_ga=1.224491866.1155275539.1473983191#!/content/10144) - mesh optimization & lod generation
 
-## Misc
-* [uREPL](https://github.com/hecomi/uREPL) - evaluation of c# expressions 
-* [TeaTime](https://github.com/alvivar/TeaTime) - timer queue for coroutine patterns
-* [uDesktopDuplication](https://github.com/hecomi/uDesktopDuplication) - realtime screen capture as Texture2D
-* [Simplygon](https://www.assetstore.unity3d.com/en/?&_ga=1.224491866.1155275539.1473983191#!/content/10144) - mesh optimization & lod generation
+## Debug
+* [uREPL](https://github.com/hecomi/uREPL) - runtime evaluation of c# expressions
+* [UberLogger](https://github.com/bbbscarter/UberLogger) - advanced logging API, improved editor console & ingame console
 
 ## Editor
-
 #### Tools
 * [REX Diagnostics](https://thorgeirk11.github.io/REX-Diagnostics/) - runtime evaluation of c# expressions 
 * [Better Defines](https://github.com/TarasOsiris/Better-Defines) - platform dependent preprocessor directive manager
@@ -189,6 +194,7 @@ Navigation:
 * [Tree Randomizer](https://www.assetstore.unity3d.com/en/#!/content/59228) - randomize unity trees
 * [Render Settings Duplicator](https://www.assetstore.unity3d.com/en/#!/content/58831) - clones the render settings from one scene to another
 * [Piviot Transform Helper](https://twitter.com/talecrafter/status/780812894502084609) - adds piviot creation shortcuts to the context menu
+* [ScriptExecutionOrder Attribute](https://gist.github.com/Skybladev2/d0d029716b1651cc1947) - attribute to specify execution order
 
 ### Editors
 * [Brainiac](https://github.com/daemon3000/Brainiac) - behaviour tree & (behaviour-)node-based visual editor
@@ -202,6 +208,7 @@ Navigation:
 * [VertexPaint](https://github.com/slipster216/VertexPaint) - vertex data painter
 * [SabreCSG](https://github.com/sabresaurus/SabreCSG) - a set of level design tools for building complex levels
 * [Constants Generator Kit](https://github.com/LostPolygon/ConstantsGeneratorKit) - generates static classes for layers, scenes, tags and resources
+* [Unity Tilemap](https://github.com/toinfiniityandbeyond/unity-tilemap) - 2D tilemap editor
 
 ### Inspector Extensions
 * [Reorderable Lists](https://bitbucket.org/rotorz/reorderable-list-editor-field-for-unity) - reorderable list field
@@ -218,13 +225,6 @@ Navigation:
 * [Unity Excel Importer Maker](https://github.com/tsubaki/Unity-Excel-Importer-Maker) - excel
 * [Unity Psd Importer](https://github.com/ChemiKhazi/UnityPsdImporter) - advanced psd import
 
-## Libraries
-* [UnityOctree](https://github.com/Nition/UnityOctree) - octrees
-* [UnityHTTP](https://github.com/andyburke/UnityHTTP) - http library
-* [SQLite4Unity3d](https://github.com/codecoding/SQLite4Unity3d) - sql lite
-* [Json.Net](https://github.com/SaladLab/Json.Net.Unity3D) - Newtonsoft Json.NET
-* [NVIDIA Hair Works Integration](https://github.com/unity3d-jp/NVIDIAHairWorksIntegration) - Nvidia hair works
-
 ## API Extensions & Helper
 * [Camera Extension](https://gist.github.com/TarasOsiris/a8904989c18424bcdf73) - a better way of manipulating the culling mask
 * [Download Manager](https://gist.github.com/asus4/2490117) - simple file downloads
@@ -234,20 +234,25 @@ Navigation:
 * [Unity3D ExecutionOrderAttribute](https://github.com/Thundernerd/Unity3D-ExecutionOrderAttribute) - execution order attribute
 * [LINQ to GameObject for Unity](https://github.com/neuecc/LINQ-to-GameObject-for-Unity) - gameobject linq querys
 * [Chained Works](https://bitbucket.org/snippets/Lordinarius/8rnLn/chainedworks) - coroutine chained procedures 
+* [TeaTime](https://github.com/alvivar/TeaTime) - timer queue for coroutines
+* [Smart Tags and Layers](https://github.com/nicoplv/smart-tags-and-layers) - generates static values for your tags and layers
 
 ## Design Patterns
 * [Unity Singleton MonoBehaviour](https://github.com/kleber-swf/Unity-Singleton-MonoBehaviour) - powerful singleton
 * [Signals](https://github.com/UnityPatterns/Signals) - simple event/signal system
 * [Unity3d Finite State Machine](https://github.com/thefuntastic/Unity3d-Finite-State-Machine) - simple finite stata machine
+* [stateless](https://github.com/StompyRobot/stateless) - more complex state machines
 * [Design Patterns in Unity Example](https://github.com/marwie/Design-Patterns-in-Unity-Example) - collection of design patterns
 * [Entitas CSharp](https://github.com/sschmid/Entitas-CSharp) - entity component system framework 
 * [strangeioc](https://github.com/strangeioc/strangeioc) - inversion of control framework 
 * [Zenject](https://github.com/modesttree/Zenject) - depedency injection framework 
 * [UniRx](https://github.com/neuecc/UniRx) - unity reactive extensions implementation
 
-## Serialization
-* [Json.Net](https://github.com/SaladLab/Json.Net.Unity3D) - Newtonsoft Json.NET
+## Serialization & Web
 * [Full Serializer](https://github.com/jacobdufault/fullserializer) - custom serializer
+* [Json.Net](https://github.com/SaladLab/Json.Net.Unity3D) - Newtonsoft Json.NET
+* [SQLite4Unity3d](https://github.com/codecoding/SQLite4Unity3d) - sql lite
+* [UnityHTTP](https://github.com/andyburke/UnityHTTP) - http library
 
 ## Social SDKs
 * [Google Analytics Plugin](https://github.com/googleanalytics/google-analytics-plugin-for-unity) - Google Analytics
@@ -257,23 +262,21 @@ Navigation:
 * [GetSocial SDK](https://github.com/getsocial-im/getsocial-unity-sdk) - community api
 * [SOOMLA Framework](https://github.com/soomla/unity3d-store) - store api
 * [Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET) - c# wrapper for valve's Steamworks API
-* [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - a more c#pier Steamworks API, not all features implemented though
-
-## Collections & Utils
-* [UtilityKit](https://github.com/prime31/UtilityKit) - SerializationUtil, SpriteAnimator, SpriteAnimator, MathHeloers, AutoSnap, ...
+* [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - Steamworks C# API (not all features implemented, but better API)
 
 ## Other
 * [Unity Right Click](https://gist.github.com/adamtuliper/48a6e2ce3d9b5e72be36) - windows context menu extension: 'open with unity'
 * [No Hot-Reload](https://capeguy.co.uk/2015/06/no-more-unity-hot-reload/) - prevent unity hot-reloads
 * [Unity Decompiled](https://github.com/CarlosHBC/UnityDecompiled/) - unity 5.3 decompiled
-* [Unity Tools](https://github.com/kode80/UnityTools) - asset updater
 * [Unity C# 5.0 and 6.0 Integration](https://bitbucket.org/alexzzzz/unity-c-5.0-and-6.0-integration) - c# 5 & 6 integration for unity
 * [FLUnity](https://github.com/canab/flunity) - flash to unity
 * [Projeny](https://github.com/modesttree/projeny) - project management 
 * [CUDLR](https://github.com/proletariatgames/CUDLR) - remote debugging and logging console
 * [WebGL - Simple Loading Fix](http://designagame.eu/2016/09/is-unity-webgl-loading-a-simple-fix/) - custom loading bar for the webgl loader
+* [UtilityKit](https://github.com/prime31/UtilityKit) - SerializationUtil, SpriteAnimator, SpriteAnimator, MathHeloers, AutoSnap, ...
 * [Remove Boo.Lang and UnityScript Hints](https://gist.github.com/jbevain/a982cc580fb796c93e4e) - Project Generation Hook to remove references to Boo.Lang and UnityScript assemblies
-
+* [Asset Store Batch Mode](https://github.com/thinksquirrel/asset-store-batch-mode) - API for uploading Unity Asset Store packages
+* [Unity Size Explorer](https://github.com/aschearer/unitysizeexplorer) - analyzes the disk space usage of your build
 
 
 ## Source
