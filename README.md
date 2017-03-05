@@ -6,35 +6,32 @@ Please report broken links, outdated assets and spelling mistakes.
 The links are in no particular order.
 
 Navigation:
-- [GameObjects](#gameobjects)
+- [GameObjects & Transforms](#gameobjects--transforms)
+- [Movement & Animation](#movement--animation)
 - [Controls & Input](#controls--input)
-- [Movement](#movement)
-- [Particles](#particles)
-- [Animation](#animation)
-- [Meshes & Construction](#meshes--construction)
-- [2D](#2d)
-- [Physics](#physics)
+- [Character Controller](#character-controller)
 - [AI & Pathfinding](#ai--pathfinding)
+- [Physics](#physics)
+- [Particles](#particles)
+- [Meshes & Construction](#meshes--construction)
+- [Materials & Shading](#materials--shading)
+- [2D](#2d)
 - [Networking](#networking)
 - [VR](#vr)
 - [Sound & Music](#sound--music)
 - [UI](#ui)
-- [Materials & Shading](#materials--shading)
-- [Lightning](#lightning)
 - [Post-Processing & Rendering](#post-processing--rendering)
 - [Mobile](#mobile)
-- [Misc](#misc)
+- [Debug](#debug)
 - [Editor](#editor)
   - [Tools](#tools)
   - [Editors](#editors)
   - [Inspector Extensions](#inspector-extensions)
   - [Importer](#importer)
-- [Libraries](#libraries)
+- [Serialization & Web](#serialization--web)
+- [Social SDKs](#social-sdks)
 - [API Extensions & Helper](#api-extensions--helper)
 - [Design Patterns](#design-patterns)
-- [Serialization](#serialization)
-- [Social SDKs](#social-sdks)
-- [Collections & Utils](#collections--utils)
 - [Other](#other)
 
 
@@ -111,6 +108,8 @@ Navigation:
 * [UNet Authoritative Networking](https://github.com/atrakeur/unity-unet-authoritative-networking) - authoritative networking implementation
 
 ## VR
+* [SteamVR](https://github.com/ValveSoftware/steamvr_unity_plugin) - VR SDK
+* [The Lab Renderer](https://www.assetstore.unity3d.com/en/#!/content/63141) - VR renderer by Valve
 * [VRTK](https://github.com/thestonefox/VRTK) - contains useful scripts for building VR games
 * [NewtonVR](https://github.com/TomorrowTodayLabs/NewtonVR) - VR physics and interactions
 * [Cutie Keys](https://github.com/NormalVR/CutieKeys/) - VR keyboard
@@ -177,7 +176,7 @@ Navigation:
 * [UberLogger](https://github.com/bbbscarter/UberLogger) - advanced logging API, improved editor console & ingame console
 
 ## Editor
-#### Tools
+### Tools
 * [REX Diagnostics](https://thorgeirk11.github.io/REX-Diagnostics/) - runtime evaluation of c# expressions 
 * [Better Defines](https://github.com/TarasOsiris/Better-Defines) - platform dependent preprocessor directive manager
 * [Unity File Debug](https://github.com/Sacred-Seed-Studio/Unity-File-Debug) - enhanced logging 
@@ -225,6 +224,22 @@ Navigation:
 * [Unity Excel Importer Maker](https://github.com/tsubaki/Unity-Excel-Importer-Maker) - excel
 * [Unity Psd Importer](https://github.com/ChemiKhazi/UnityPsdImporter) - advanced psd import
 
+## Serialization & Web
+* [Full Serializer](https://github.com/jacobdufault/fullserializer) - custom serializer
+* [Json.Net](https://github.com/SaladLab/Json.Net.Unity3D) - Newtonsoft Json.NET
+* [SQLite4Unity3d](https://github.com/codecoding/SQLite4Unity3d) - sql lite
+* [UnityHTTP](https://github.com/andyburke/UnityHTTP) - http library
+
+## Social SDKs
+* [Google Analytics Plugin](https://github.com/googleanalytics/google-analytics-plugin-for-unity) - Google Analytics
+* [Google Play Games Plugin](https://github.com/playgameservices/play-games-plugin-for-unity) - Google Play plugin
+* [Facebook SDK](https://github.com/facebook/facebook-sdk-for-unity) - Facebook sdk
+* [Reign Unity Plugin](https://github.com/reignstudios/Reign-Unity-Plugin5) - unified mobile api
+* [GetSocial SDK](https://github.com/getsocial-im/getsocial-unity-sdk) - community api
+* [SOOMLA Framework](https://github.com/soomla/unity3d-store) - store api
+* [Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET) - c# wrapper for valve's Steamworks API
+* [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - Steamworks C# API (not all features implemented, but better API)
+
 ## API Extensions & Helper
 * [Camera Extension](https://gist.github.com/TarasOsiris/a8904989c18424bcdf73) - a better way of manipulating the culling mask
 * [Download Manager](https://gist.github.com/asus4/2490117) - simple file downloads
@@ -247,22 +262,6 @@ Navigation:
 * [strangeioc](https://github.com/strangeioc/strangeioc) - inversion of control framework 
 * [Zenject](https://github.com/modesttree/Zenject) - depedency injection framework 
 * [UniRx](https://github.com/neuecc/UniRx) - unity reactive extensions implementation
-
-## Serialization & Web
-* [Full Serializer](https://github.com/jacobdufault/fullserializer) - custom serializer
-* [Json.Net](https://github.com/SaladLab/Json.Net.Unity3D) - Newtonsoft Json.NET
-* [SQLite4Unity3d](https://github.com/codecoding/SQLite4Unity3d) - sql lite
-* [UnityHTTP](https://github.com/andyburke/UnityHTTP) - http library
-
-## Social SDKs
-* [Google Analytics Plugin](https://github.com/googleanalytics/google-analytics-plugin-for-unity) - Google Analytics
-* [Google Play Games Plugin](https://github.com/playgameservices/play-games-plugin-for-unity) - Google Play plugin
-* [Facebook SDK](https://github.com/facebook/facebook-sdk-for-unity) - Facebook sdk
-* [Reign Unity Plugin](https://github.com/reignstudios/Reign-Unity-Plugin5) - unified mobile api
-* [GetSocial SDK](https://github.com/getsocial-im/getsocial-unity-sdk) - community api
-* [SOOMLA Framework](https://github.com/soomla/unity3d-store) - store api
-* [Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET) - c# wrapper for valve's Steamworks API
-* [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - Steamworks C# API (not all features implemented, but better API)
 
 ## Other
 * [Unity Right Click](https://gist.github.com/adamtuliper/48a6e2ce3d9b5e72be36) - windows context menu extension: 'open with unity'
