@@ -276,9 +276,3 @@ Navigation:
 * [Remove Boo.Lang and UnityScript Hints](https://gist.github.com/jbevain/a982cc580fb796c93e4e) - Project Generation Hook to remove references to Boo.Lang and UnityScript assemblies
 * [Asset Store Batch Mode](https://github.com/thinksquirrel/asset-store-batch-mode) - API for uploading Unity Asset Store packages
 * [Unity Size Explorer](https://github.com/aschearer/unitysizeexplorer) - analyzes the disk space usage of your build
-
-
-## Source
-I collected most links over multiple years, but I also got some from:
-- [http://unitycoder.com/blog/2016/03/08/best-unity-github-repositories/]("Unitycoder.com")
-- [https://unity3d-open-source.zeef.com/taras.leskiv]("Unity Opensource Collection")
