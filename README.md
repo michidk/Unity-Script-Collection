@@ -1,5 +1,5 @@
 # Unity Script Collection
-A maintained collection of useful & **free** unity scripts / library's / plugins and extensions.
+A maintained collection of useful & **free** unity scripts / libraries / plugins and extensions.
 
 If you want to suggest a link, then read the [Contribution Guidelines](CONTRIBUTING.md) first.
 Please report broken links, outdated assets and spelling mistakes.
