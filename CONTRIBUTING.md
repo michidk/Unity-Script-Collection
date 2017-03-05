@@ -8,6 +8,7 @@ Please report broken links, outdated assets and spelling mistakes.
 ## Notes:
 * The links are in no particular order.
 * Outdated assets are removed from time to time.
+* GitHub-links are preffered over other hosting locations (like the Unity AssetStore)
 
 ## Requirements
 * All linked assets are free.
