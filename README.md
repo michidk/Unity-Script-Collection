@@ -2,8 +2,9 @@
 A maintained collection of useful & **free** unity scripts / library's / plugins and extensions.
 
 If you want to suggest a link, then read the [Contribution Guidelines](CONTRIBUTING.md) first.
-Please report broken links, outdated assets and spelling mistakes.
-The links are in no particular order.
+Please report broken links, outdated assets and spelling mistakes. The links are in no particular order. This list is licensed under the [GNU General Public License v3.0](LICENSE) and does only apply to this repository.
+
+I collect links over time in Issue [#1](https://github.com/michidk/Unity-Script-Collection/issues/1), once a month I will categorize them and add them to this list. If you want to get notified about updates, watch this repository or [follow me on Twitter](https://twitter.com/miichidk).
 
 Navigation:
 - [GameObjects & Transforms](#gameobjects--transforms)
@@ -44,8 +45,11 @@ Navigation:
 * [List View Framework](https://bitbucket.org/Unity-Technologies/list-view-framework) - create dynamic, scrollable lists
 * [Reaktion](https://github.com/keijiro/Reaktion) - audio reaction toolkit
 * [DOTween](https://github.com/Demigiant/dotween) - tween engine
+* [Camera Path Creator](https://www.assetstore.unity3d.com/en/#!/content/84074) - create complex camera paths
+* [Cinemachine BaseRig](https://www.assetstore.unity3d.com/en/#!/content/79898) - procedural camera system
 * [UnitySpritesAndBones](https://github.com/Banbury/UnitySpritesAndBones) - skeletal sprite animations
 * [spine-unity](https://github.com/EsotericSoftware/spine-runtimes/tree/master/spine-unity) - import spine animations
+* [ikccd](https://github.com/sunilnayak133/ikccd) - IK Solver using Cyclic Coordinate Descent
 
 ## Controls & Input
 * [InputManager](https://github.com/daemon3000/InputManager) - a powerful input manager
@@ -66,10 +70,12 @@ Navigation:
 ## Physics
 * [Mario Galaxy Gravity for Unity](https://gist.github.com/phosphoer/a283cdbeca5d2160d5eed318d0362826) - mario galaxy gravity
 * [Ocean Community Next Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) - water physics/shader
+* [Voxel GPU Physics](https://github.com/jknightdoeswork/gpu-physics-unity) - GPU accelerated voxel physics
 
 ## Particles
 * [KvantSpray](https://github.com/keijiro/KvantSpray) - gpu accelerated particles
 * [NVIDIA Hair Works Integration](https://github.com/unity3d-jp/NVIDIAHairWorksIntegration) - Nvidia hair works
+* [Ember Particles](https://twitter.com/Der_Kevin/status/832545397109309440) - turbulent ember particles
 
 ## Meshes & Construction
 * [ProceduralToolkit](https://github.com/Syomus/ProceduralToolkit) - procedural mesh toolkit/generator 
@@ -93,6 +99,7 @@ Navigation:
 * [Skybox Plus](https://github.com/keijiro/SkyboxPlus) - a collection of skybox shaders
 * [Outline Shader](https://gist.github.com/michidk/3b49362e21563a1d66d52f4cf4bdc7ce) - outline shader which accomodates screen width and camera distance
 * [Unity Sprite Uber Shader](https://github.com/traggett/UnitySpriteShaders) - 3D shading for sprites (e.g. normal mapping)
+* [Low Poly Shaders](https://github.com/BrokenVector/LowPolyShaders) - material shaders optimized for Low Poly stylized meshes
 
 ## 2D
 * [UnitySVG](https://github.com/MrJoy/UnitySVG) - svg renderer
@@ -113,6 +120,9 @@ Navigation:
 * [VRTK](https://github.com/thestonefox/VRTK) - contains useful scripts for building VR games
 * [NewtonVR](https://github.com/TomorrowTodayLabs/NewtonVR) - VR physics and interactions
 * [Cutie Keys](https://github.com/NormalVR/CutieKeys/) - VR keyboard
+* [Punchkeyboard](https://github.com/rjth/Punchkeyboard) - Another VR keyboard
+* [Hover UI Kit](https://github.com/aestheticinteractive/Hover-UI-Kit) - a complete VR input framework
+* [VRLineRenderer](https://github.com/Unity-Technologies/VRLineRenderer) - glowing lines renderer optimized for VR
 
 ## Sound & Music
 * [usfxr](https://github.com/zeh/usfxr) - procedual audio effects
@@ -126,6 +136,10 @@ Navigation:
 * [Lunar Mobile Console](https://github.com/SpaceMadness/lunar-unity-console) - debug console for mobiles
 * [InfinityScroll](https://github.com/ivomarel/InfinityScroll) - infinite scrollrects
 * [TextMesh Pro](https://www.assetstore.unity3d.com/en/#!/content/17662) - generate text with custom styling
+* [EasyButtons](https://github.com/madsbangh/EasyButtons) - create buttons in the inspector using annotations
+* [UI Extensions](https://bitbucket.org/UnityUIExtensions/unity-ui-extensions) - various NGUI extensions/helper/scripts
+* [NGUI Extensions](https://github.com/kimsama/Unity-NGUIExtension) - a few NGUI extensions
+* [Webview CSharp](https://github.com/kimsama/unity3d-webview-csharp) - render websites
 
 ## Post-Processing & Rendering
 * [kode80SSR](https://github.com/kode80/kode80SSR) - screen-space reflections 
@@ -161,6 +175,7 @@ Navigation:
 * [Moments](https://github.com/Chman/Moments) - gif recorder
 * [uDesktopDuplication](https://github.com/hecomi/uDesktopDuplication) - realtime screen capture as Texture2D
 * [Heat Distortion Effect](https://twitter.com/minionsart/status/833967666780110849) - a shader which distorts the image behind, using a normal map
+* [Clear Flags Effect](https://github.com/falconmick/ClearFlagsMobile) - Image Effect to reproduce the Clear Flags camera effect
 
 ## Mobile
 * [Toast](https://gist.github.com/TarasOsiris/dec42cf3ecca6c854182f385e38dbf57) - android toast notifications
@@ -219,6 +234,7 @@ Navigation:
 * [ColorBands](https://github.com/rstecca/ColorBands) - color bands
 * [QuickEvent](https://www.assetstore.unity3d.com/en/#!/content/53869) - persistent event handlers with static or dynamic values
 * [Reorder Components](https://twitter.com/mrpodunkian/status/715309192886624256) - reorder components on your GameObjects
+* [AwesomeComponent](https://gist.github.com/nicoplv/df3368eb38849a3f76a97fc27ba8ca62) - auto load assets on SerializedFields
 
 ### Importer
 * [Unity Excel Importer Maker](https://github.com/tsubaki/Unity-Excel-Importer-Maker) - excel
@@ -229,6 +245,7 @@ Navigation:
 * [Json.Net](https://github.com/SaladLab/Json.Net.Unity3D) - Newtonsoft Json.NET
 * [SQLite4Unity3d](https://github.com/codecoding/SQLite4Unity3d) - sql lite
 * [UnityHTTP](https://github.com/andyburke/UnityHTTP) - http library
+* [Unity QuickSheet](https://github.com/kimsama/Unity-QuickSheet) - import data from google/excel sheets
 
 ## Social SDKs
 * [Google Analytics Plugin](https://github.com/googleanalytics/google-analytics-plugin-for-unity) - Google Analytics
@@ -266,7 +283,6 @@ Navigation:
 ## Other
 * [Unity Right Click](https://gist.github.com/adamtuliper/48a6e2ce3d9b5e72be36) - windows context menu extension: 'open with unity'
 * [No Hot-Reload](https://capeguy.co.uk/2015/06/no-more-unity-hot-reload/) - prevent unity hot-reloads
-* [Unity Decompiled](https://github.com/CarlosHBC/UnityDecompiled/) - unity 5.3 decompiled
 * [Unity C# 5.0 and 6.0 Integration](https://bitbucket.org/alexzzzz/unity-c-5.0-and-6.0-integration) - c# 5 & 6 integration for unity
 * [FLUnity](https://github.com/canab/flunity) - flash to unity
 * [Projeny](https://github.com/modesttree/projeny) - project management 
@@ -276,3 +292,7 @@ Navigation:
 * [Remove Boo.Lang and UnityScript Hints](https://gist.github.com/jbevain/a982cc580fb796c93e4e) - Project Generation Hook to remove references to Boo.Lang and UnityScript assemblies
 * [Asset Store Batch Mode](https://github.com/thinksquirrel/asset-store-batch-mode) - API for uploading Unity Asset Store packages
 * [Unity Size Explorer](https://github.com/aschearer/unitysizeexplorer) - analyzes the disk space usage of your build
+g
+* [Better Unity Script Templates](https://github.com/BrokenVector/BetterUnityScriptTemplates) - improved Script templates
+* [UnityDecompiled](https://github.com/MattRix/UnityDecompiled) - decompiled Unity API code
+* [Shader Calibration Charts](https://oc.unity3d.com/index.php/s/dfc9aa1491ff905f589408aa136eab23) - Unity StandardShader calibration charts
