@@ -40,6 +40,7 @@ Navigation:
 * [RecyclerKit](https://github.com/prime31/RecyclerKit) - pooling system
 * [UnityOctree](https://github.com/Nition/UnityOctree) - octrees
 * [In-Game Replay System](https://github.com/FeNo/InGameReplay) - record and replay transforms
+* [Unity Scene Query](https://github.com/Real-Serious-Games/Unity-Scene-Query) - library to traverse and query the Unity scene to find particular objects
 
 ## Movement & Animation
 * [List View Framework](https://bitbucket.org/Unity-Technologies/list-view-framework) - create dynamic, scrollable lists
@@ -76,6 +77,7 @@ Navigation:
 * [KvantSpray](https://github.com/keijiro/KvantSpray) - gpu accelerated particles
 * [NVIDIA Hair Works Integration](https://github.com/unity3d-jp/NVIDIAHairWorksIntegration) - Nvidia hair works
 * [Ember Particles](https://twitter.com/Der_Kevin/status/832545397109309440) - turbulent ember particles
+* [SPHFluid](https://github.com/MangoSister/SPHFluid) - Interactive 3D Fluid Simulation based on SPH
 
 ## Meshes & Construction
 * [ProceduralToolkit](https://github.com/Syomus/ProceduralToolkit) - procedural mesh toolkit/generator 
@@ -89,6 +91,7 @@ Navigation:
 * [FacePaint](https://github.com/SixWays/FacePaint) - paint triangles of meshes
 * [Simplygon](https://www.assetstore.unity3d.com/en/?&_ga=1.224491866.1155275539.1473983191#!/content/10144) - mesh optimization & lod generation
 * [TextMesh Pro](https://www.assetstore.unity3d.com/en/#!/content/17662) - generate text with custom styling
+* [meshcombinewizard](https://bitbucket.org/sirgru/meshcombinewizard) - combines all meshes on the chosen gameObject and its children that share the same material
 
 ## Materials & Shading
 * [Projects by RM](https://www.assetstore.unity3d.com/en/#!/content/21648) - wet surface & skin shader
@@ -100,6 +103,8 @@ Navigation:
 * [Outline Shader](https://gist.github.com/michidk/3b49362e21563a1d66d52f4cf4bdc7ce) - outline shader which accomodates screen width and camera distance
 * [Unity Sprite Uber Shader](https://github.com/traggett/UnitySpriteShaders) - 3D shading for sprites (e.g. normal mapping)
 * [Low Poly Shaders](https://github.com/BrokenVector/LowPolyShaders) - material shaders optimized for Low Poly stylized meshes
+* [Lux Shader Framework](https://github.com/larsbertram69/Lux-2.02-Personal) - Lux 2.02 pbr Shader Framework
+* [Unity Wireframe Shaders](https://github.com/Chaser324/unity-wireframe) - general purpose wireframe shaders
 
 ## 2D
 * [UnitySVG](https://github.com/MrJoy/UnitySVG) - svg renderer
@@ -128,6 +133,7 @@ Navigation:
 * [usfxr](https://github.com/zeh/usfxr) - procedual audio effects
 * [Reaktion](https://github.com/keijiro/Reaktion) - audio reaction toolkit (mac only)
 * [DefaultMicrophone](https://github.com/GabeBigBoxVR/UnityDefaultMicrophone) - gets the default microphone (windows only)
+* [Lasp](https://github.com/keijiro/Lasp) - Low-latency Audio Signal Processing plugin for Unity
 
 ## UI
 * [Unity UI Extensions](https://bitbucket.org/ddreaper/unity-ui-extensions) - collection of ui extensions
@@ -176,6 +182,8 @@ Navigation:
 * [uDesktopDuplication](https://github.com/hecomi/uDesktopDuplication) - realtime screen capture as Texture2D
 * [Heat Distortion Effect](https://twitter.com/minionsart/status/833967666780110849) - a shader which distorts the image behind, using a normal map
 * [Clear Flags Effect](https://github.com/falconmick/ClearFlagsMobile) - Image Effect to reproduce the Clear Flags camera effect
+* [DeLightingTool](https://github.com/Unity-Technologies/DeLightingTool) - tool to remove lighting information from textures in a photogrammetry asset pipeline
+* [unity-lut-generator](https://github.com/mattatz/unity-lut-generator) - LookUpTable generator for Unity
 
 ## Mobile
 * [Toast](https://gist.github.com/TarasOsiris/dec42cf3ecca6c854182f385e38dbf57) - android toast notifications
@@ -209,6 +217,7 @@ Navigation:
 * [Render Settings Duplicator](https://www.assetstore.unity3d.com/en/#!/content/58831) - clones the render settings from one scene to another
 * [Piviot Transform Helper](https://twitter.com/talecrafter/status/780812894502084609) - adds piviot creation shortcuts to the context menu
 * [ScriptExecutionOrder Attribute](https://gist.github.com/Skybladev2/d0d029716b1651cc1947) - attribute to specify execution order
+* [Simple Editor Shortcuts Tools Collection](https://bitbucket.org/sirgru/simple-editor-shortcuts-tools-collection) - small collection of simple tools to help in scene editing workflows
 
 ### Editors
 * [Brainiac](https://github.com/daemon3000/Brainiac) - behaviour tree & (behaviour-)node-based visual editor
@@ -223,6 +232,7 @@ Navigation:
 * [SabreCSG](https://github.com/sabresaurus/SabreCSG) - a set of level design tools for building complex levels
 * [Constants Generator Kit](https://github.com/LostPolygon/ConstantsGeneratorKit) - generates static classes for layers, scenes, tags and resources
 * [Unity Tilemap](https://github.com/toinfiniityandbeyond/unity-tilemap) - 2D tilemap editor
+* [Node Editor Framework](https://github.com/Seneral/Node_Editor_Framework) - Node Editor Framework for creating node based displays and editors
 
 ### Inspector Extensions
 * [Reorderable Lists](https://bitbucket.org/rotorz/reorderable-list-editor-field-for-unity) - reorderable list field
@@ -256,6 +266,7 @@ Navigation:
 * [SOOMLA Framework](https://github.com/soomla/unity3d-store) - store api
 * [Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET) - c# wrapper for valve's Steamworks API
 * [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - Steamworks C# API (not all features implemented, but better API)
+* [twitter-for-unity](https://github.com/toofu37/twitter-for-unity) - Twitter API Client for Unity
 
 ## API Extensions & Helper
 * [Camera Extension](https://gist.github.com/TarasOsiris/a8904989c18424bcdf73) - a better way of manipulating the culling mask
@@ -268,6 +279,7 @@ Navigation:
 * [Chained Works](https://bitbucket.org/snippets/Lordinarius/8rnLn/chainedworks) - coroutine chained procedures 
 * [TeaTime](https://github.com/alvivar/TeaTime) - timer queue for coroutines
 * [Smart Tags and Layers](https://github.com/nicoplv/smart-tags-and-layers) - generates static values for your tags and layers
+* [UnityRefChecker](https://github.com/haydenjameslee/UnityRefChecker) - A plugin for checking unassigned references in MonoBehaviours at compile time, across scenes.
 
 ## Design Patterns
 * [Unity Singleton MonoBehaviour](https://github.com/kleber-swf/Unity-Singleton-MonoBehaviour) - powerful singleton
@@ -279,6 +291,7 @@ Navigation:
 * [strangeioc](https://github.com/strangeioc/strangeioc) - inversion of control framework 
 * [Zenject](https://github.com/modesttree/Zenject) - depedency injection framework 
 * [UniRx](https://github.com/neuecc/UniRx) - unity reactive extensions implementation
+* [Ring_Buffer](https://bitbucket.org/sirgru/ring_buffer) - simple implementation of a RingBuffer<T>
 
 ## Other
 * [Unity Right Click](https://gist.github.com/adamtuliper/48a6e2ce3d9b5e72be36) - windows context menu extension: 'open with unity'
@@ -292,9 +305,10 @@ Navigation:
 * [Remove Boo.Lang and UnityScript Hints](https://gist.github.com/jbevain/a982cc580fb796c93e4e) - Project Generation Hook to remove references to Boo.Lang and UnityScript assemblies
 * [Asset Store Batch Mode](https://github.com/thinksquirrel/asset-store-batch-mode) - API for uploading Unity Asset Store packages
 * [Unity Size Explorer](https://github.com/aschearer/unitysizeexplorer) - analyzes the disk space usage of your build
-g
 * [Better Unity Script Templates](https://github.com/BrokenVector/BetterUnityScriptTemplates) - improved Script templates
 * [UnityDecompiled](https://github.com/MattRix/UnityDecompiled) - decompiled Unity API code
 * [Shader Calibration Charts](https://oc.unity3d.com/index.php/s/dfc9aa1491ff905f589408aa136eab23) - Unity StandardShader calibration charts
+* [Save Game Free](https://github.com/BayatGames/SaveGameFree) - cross platform, encrypted, online-stored saves
+* [demilib](https://github.com/Demigiant/demilib) - various utilities and tools for Unity
 
 [![Analytics](https://ga-beacon.appspot.com/UA-63472612-14/readme)](https://github.com/igrigorik/ga-beacon)
