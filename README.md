@@ -296,5 +296,6 @@ g
 * [Better Unity Script Templates](https://github.com/BrokenVector/BetterUnityScriptTemplates) - improved Script templates
 * [UnityDecompiled](https://github.com/MattRix/UnityDecompiled) - decompiled Unity API code
 * [Shader Calibration Charts](https://oc.unity3d.com/index.php/s/dfc9aa1491ff905f589408aa136eab23) - Unity StandardShader calibration charts
+* [Save Game Free](https://github.com/BayatGames/SaveGameFree) - cross platform, encrypted, online-stored saves
 
 [![Analytics](https://ga-beacon.appspot.com/UA-63472612-14/readme)](https://github.com/igrigorik/ga-beacon)
