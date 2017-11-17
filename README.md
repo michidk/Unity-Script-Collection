@@ -63,7 +63,6 @@ Navigation:
 
 ## AI & Pathfinding
 * [A Star Pathfinding for Platformers](https://github.com/tutsplus/A-Star-Pathfinding-for-Platformers) - A* for platformers
-* [AStart](https://github.com/MaroMaroO/AStart/) - basic A* pathfinding
 * [Astar for Unity](https://github.com/sharpaccent/Astar-for-Unity) - A* pathfinding 
 * [A* Pathfinding Project](http://arongranberg.com/astar/) - A* pathfinding
 * [UnitySteer](https://github.com/ricardojmendez/UnitySteer) - steering, obstacle avoidance and path following behaviors
