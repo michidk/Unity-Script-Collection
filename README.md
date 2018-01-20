@@ -91,6 +91,7 @@ Navigation:
 * [Simplygon](https://www.assetstore.unity3d.com/en/?&_ga=1.224491866.1155275539.1473983191#!/content/10144) - mesh optimization & lod generation
 * [TextMesh Pro](https://www.assetstore.unity3d.com/en/#!/content/17662) - generate text with custom styling
 * [meshcombinewizard](https://bitbucket.org/sirgru/meshcombinewizard) - combines all meshes on the chosen gameObject and its children that share the same material
+* [RoadArchitect](https://github.com/MicroGSD/RoadArchitect) - road system creator featuring dynamic intersections, bridges, etc.
 
 ## Materials & Shading
 * [Projects by RM](https://www.assetstore.unity3d.com/en/#!/content/21648) - wet surface & skin shader
@@ -104,6 +105,7 @@ Navigation:
 * [Low Poly Shaders](https://github.com/BrokenVector/LowPolyShaders) - material shaders optimized for Low Poly stylized meshes
 * [Lux Shader Framework](https://github.com/larsbertram69/Lux-2.02-Personal) - Lux 2.02 pbr Shader Framework
 * [Unity Wireframe Shaders](https://github.com/Chaser324/unity-wireframe) - general purpose wireframe shaders
+* [Hologram Shader](https://github.com/andydbc/HologramShader) - simple hologram shader
 
 ## 2D
 * [UnitySVG](https://github.com/MrJoy/UnitySVG) - svg renderer
@@ -114,6 +116,7 @@ Navigation:
 * [Fungus](https://github.com/snozbot/fungus) - 2d interactive storytelling game framework
 * [PolyMesh](https://github.com/UnityPatterns/PolyMesh) - 2d shape editor
 * [Unity Tilemap](https://github.com/toinfiniityandbeyond/unity-tilemap) - 2D tilemap editor
+* [2D Extras](https://github.com/Unity-Technologies/2d-extras) - reusable 2d scripts (tilemaps, etc.)
 
 ## Networking
 * [UNet Authoritative Networking](https://github.com/atrakeur/unity-unet-authoritative-networking) - authoritative networking implementation
@@ -183,6 +186,7 @@ Navigation:
 * [Clear Flags Effect](https://github.com/falconmick/ClearFlagsMobile) - Image Effect to reproduce the Clear Flags camera effect
 * [DeLightingTool](https://github.com/Unity-Technologies/DeLightingTool) - tool to remove lighting information from textures in a photogrammetry asset pipeline
 * [unity-lut-generator](https://github.com/mattatz/unity-lut-generator) - LookUpTable generator for Unity
+* [SEGI](https://github.com/sonicether/SEGI) - Sonic Ether's voxel-based global illumination system
 
 ## Mobile
 * [Toast](https://gist.github.com/TarasOsiris/dec42cf3ecca6c854182f385e38dbf57) - android toast notifications
@@ -232,6 +236,7 @@ Navigation:
 * [Constants Generator Kit](https://github.com/LostPolygon/ConstantsGeneratorKit) - generates static classes for layers, scenes, tags and resources
 * [Unity Tilemap](https://github.com/toinfiniityandbeyond/unity-tilemap) - 2D tilemap editor
 * [Node Editor Framework](https://github.com/Seneral/Node_Editor_Framework) - Node Editor Framework for creating node based displays and editors
+* [Unity Event Visualizer](https://github.com/MephestoKhaan/UnityEventVisualizer) - graph editor for viewing all UnityEvents
 
 ### Inspector Extensions
 * [Reorderable Lists](https://bitbucket.org/rotorz/reorderable-list-editor-field-for-unity) - reorderable list field
@@ -244,6 +249,7 @@ Navigation:
 * [QuickEvent](https://www.assetstore.unity3d.com/en/#!/content/53869) - persistent event handlers with static or dynamic values
 * [Reorder Components](https://twitter.com/mrpodunkian/status/715309192886624256) - reorder components on your GameObjects
 * [AwesomeComponent](https://gist.github.com/nicoplv/df3368eb38849a3f76a97fc27ba8ca62) - auto load assets on SerializedFields
+* [ScenePreview Inspector](http://diegogiacomelli.com.br/unity3d-scenepreview-inspector/) - view scene preview in inspector
 
 ### Importer
 * [Unity Excel Importer Maker](https://github.com/tsubaki/Unity-Excel-Importer-Maker) - excel
@@ -279,6 +285,7 @@ Navigation:
 * [TeaTime](https://github.com/alvivar/TeaTime) - timer queue for coroutines
 * [Smart Tags and Layers](https://github.com/nicoplv/smart-tags-and-layers) - generates static values for your tags and layers
 * [UnityRefChecker](https://github.com/haydenjameslee/UnityRefChecker) - A plugin for checking unassigned references in MonoBehaviours at compile time, across scenes.
+* [xNode](https://github.com/Siccity/xNode) - easily create node-based plugins
 
 ## Design Patterns
 * [Unity Singleton MonoBehaviour](https://github.com/kleber-swf/Unity-Singleton-MonoBehaviour) - powerful singleton
