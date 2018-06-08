@@ -200,12 +200,12 @@ Navigation:
 ## Debug
 * [uREPL](https://github.com/hecomi/uREPL) - runtime evaluation of c# expressions
 * [UberLogger](https://github.com/bbbscarter/UberLogger) - advanced logging API, improved editor console & ingame console
+* [Unity File Debug](https://github.com/Sacred-Seed-Studio/Unity-File-Debug) - enhanced Debug.Log with file export and web viewer
 
 ## Editor
 ### Tools
 * [REX Diagnostics](https://thorgeirk11.github.io/REX-Diagnostics/) - runtime evaluation of c# expressions 
 * [Better Defines](https://github.com/TarasOsiris/Better-Defines) - platform dependent preprocessor directive manager
-* [Unity File Debug](https://github.com/Sacred-Seed-Studio/Unity-File-Debug) - enhanced logging 
 * [MissingReferencesUnity](https://github.com/liortal53/MissingReferencesUnity) - find missing references
 * [Unity Resource Checker](https://github.com/handcircus/Unity-Resource-Checker) - resource analyzer
 * [Compile Time Tracker](https://github.com/DarrenTsung/compile-time-tracker) - compile time tracker
