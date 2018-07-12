@@ -318,7 +318,7 @@ Navigation:
 * [Asset Store Batch Mode](https://github.com/thinksquirrel/asset-store-batch-mode) - API for uploading Unity Asset Store packages
 * [Unity Size Explorer](https://github.com/aschearer/unitysizeexplorer) - analyzes the disk space usage of your build
 * [Better Unity Script Templates](https://github.com/BrokenVector/BetterUnityScriptTemplates) - improved Script templates
-* [UnityDecompiled](https://github.com/MattRix/UnityDecompiled) - decompiled Unity API code
+* [UnityCsReference](https://github.com/Unity-Technologies/UnityCsReference) - Unity C# reference source code
 * [Shader Calibration Charts](https://oc.unity3d.com/index.php/s/dfc9aa1491ff905f589408aa136eab23) - Unity StandardShader calibration charts
 * [Save Game Free](https://github.com/BayatGames/SaveGameFree) - cross platform, encrypted, online-stored saves
 
