@@ -33,6 +33,7 @@ Navigation:
 - [Social SDKs](#social-sdks)
 - [API Extensions & Helper](#api-extensions--helper)
 - [Design Patterns](#design-patterns)
+- [Utilities](#utilities)
 - [Other](#other)
 
 
@@ -261,6 +262,7 @@ Navigation:
 * [SQLite4Unity3d](https://github.com/codecoding/SQLite4Unity3d) - sql lite
 * [UnityHTTP](https://github.com/andyburke/UnityHTTP) - http library
 * [Unity QuickSheet](https://github.com/kimsama/Unity-QuickSheet) - import data from google/excel sheets
+* [Odin Unity Serializer](https://github.com/TeamSirenix/odin-serializer) - Arguably the best serializer for Unity out there
 
 ## Social SDKs
 * [Google Analytics Plugin](https://github.com/googleanalytics/google-analytics-plugin-for-unity) - Google Analytics
@@ -299,6 +301,10 @@ Navigation:
 * [UniRx](https://github.com/neuecc/UniRx) - unity reactive extensions implementation
 * [Ring_Buffer](https://bitbucket.org/sirgru/ring_buffer) - simple implementation of a RingBuffer<T>
 
+## Utilities
+* [demilib](https://github.com/Demigiant/demilib) - various utilities and tools for Unity
+* [Excessives](https://github.com/SirHall/Excessives) - General purpose C# and Unity3D utility scripts
+
 ## Other
 * [Unity Right Click](https://gist.github.com/adamtuliper/48a6e2ce3d9b5e72be36) - windows context menu extension: 'open with unity'
 * [No Hot-Reload](https://capeguy.co.uk/2015/06/no-more-unity-hot-reload/) - prevent unity hot-reloads
@@ -315,6 +321,5 @@ Navigation:
 * [UnityDecompiled](https://github.com/MattRix/UnityDecompiled) - decompiled Unity API code
 * [Shader Calibration Charts](https://oc.unity3d.com/index.php/s/dfc9aa1491ff905f589408aa136eab23) - Unity StandardShader calibration charts
 * [Save Game Free](https://github.com/BayatGames/SaveGameFree) - cross platform, encrypted, online-stored saves
-* [demilib](https://github.com/Demigiant/demilib) - various utilities and tools for Unity
 
 [![Analytics](https://ga-beacon.appspot.com/UA-63472612-14/readme)](https://github.com/igrigorik/ga-beacon)
