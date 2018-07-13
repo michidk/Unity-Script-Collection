@@ -121,6 +121,7 @@ Navigation:
 
 ## Networking
 * [UNet Authoritative Networking](https://github.com/atrakeur/unity-unet-authoritative-networking) - authoritative networking implementation
+* [MLAPI](https://github.com/MidLevel/MLAPI) An alternative to Unity's UNET high level API, allows for separate server/client projects and more
 
 ## VR
 * [SteamVR](https://github.com/ValveSoftware/steamvr_unity_plugin) - VR SDK
