@@ -42,6 +42,8 @@ Navigation:
 * [UnityOctree](https://github.com/Nition/UnityOctree) - octrees
 * [In-Game Replay System](https://github.com/FeNo/InGameReplay) - record and replay transforms
 * [Unity Scene Query](https://github.com/Real-Serious-Games/Unity-Scene-Query) - library to traverse and query the Unity scene to find particular objects
+* [UnityTools](https://github.com/CaptainHillman/UnityTools) - Runtime transformation gizmos
+* [Unity3DRuntimeTransformGizmo](https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo) - Another runtime transform gizmo
 
 ## Movement & Animation
 * [List View Framework](https://bitbucket.org/Unity-Technologies/list-view-framework) - create dynamic, scrollable lists
@@ -72,6 +74,7 @@ Navigation:
 * [Mario Galaxy Gravity for Unity](https://gist.github.com/phosphoer/a283cdbeca5d2160d5eed318d0362826) - mario galaxy gravity
 * [Ocean Community Next Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) - water physics/shader
 * [Voxel GPU Physics](https://github.com/jknightdoeswork/gpu-physics-unity) - GPU accelerated voxel physics
+* [Interactive Erosion](https://github.com/Scrawk/Interactive-Erosion) - Runtime fluid erosion for terrain 
 
 ## Particles
 * [KvantSpray](https://github.com/keijiro/KvantSpray) - gpu accelerated particles
@@ -122,6 +125,7 @@ Navigation:
 ## Networking
 * [UNet Authoritative Networking](https://github.com/atrakeur/unity-unet-authoritative-networking) - authoritative networking implementation
 * [MLAPI](https://github.com/MidLevel/MLAPI) An alternative to Unity's UNET high level API, allows for separate server/client projects and more
+* [Barebones Master Server](https://github.com/alvyxaz/barebones-masterserver) - Host your own custom master server setup, avoid CCU fees 
 
 ## VR
 * [SteamVR](https://github.com/ValveSoftware/steamvr_unity_plugin) - VR SDK
@@ -322,5 +326,6 @@ Navigation:
 * [UnityCsReference](https://github.com/Unity-Technologies/UnityCsReference) - Unity C# reference source code
 * [Shader Calibration Charts](https://oc.unity3d.com/index.php/s/dfc9aa1491ff905f589408aa136eab23) - Unity StandardShader calibration charts
 * [Save Game Free](https://github.com/BayatGames/SaveGameFree) - cross platform, encrypted, online-stored saves
+* [UCompile](https://github.com/SoapCode/UCompile) - Runtime compilation and execution of CSharp code
 
 [![Analytics](https://ga-beacon.appspot.com/UA-63472612-14/readme)](https://github.com/igrigorik/ga-beacon)
