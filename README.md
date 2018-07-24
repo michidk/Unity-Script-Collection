@@ -221,6 +221,7 @@ Navigation:
 * [Piviot Transform Helper](https://twitter.com/talecrafter/status/780812894502084609) - adds piviot creation shortcuts to the context menu
 * [ScriptExecutionOrder Attribute](https://gist.github.com/Skybladev2/d0d029716b1651cc1947) - attribute to specify execution order
 * [Simple Editor Shortcuts Tools Collection](https://bitbucket.org/sirgru/simple-editor-shortcuts-tools-collection) - small collection of simple tools to help in scene editing workflows
+* [Mulligan Renamer](https://github.com/redbluegames/unity-mulligan-renamer) - bulk renaming tool for game objects and assets
 
 ### Editors
 * [Brainiac](https://github.com/daemon3000/Brainiac) - behaviour tree & (behaviour-)node-based visual editor
