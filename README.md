@@ -69,6 +69,7 @@ Navigation:
 * [Astar for Unity](https://github.com/sharpaccent/Astar-for-Unity) - A* pathfinding 
 * [A* Pathfinding Project](http://arongranberg.com/astar/) - A* pathfinding
 * [UnitySteer](https://github.com/ricardojmendez/UnitySteer) - steering, obstacle avoidance and path following behaviors
+* [SimpleTraffic](https://github.com/Kink3d/SimpleTraffic) - A simple traffic simulation using Nav Mesh. 
 
 ## Physics
 * [Mario Galaxy Gravity for Unity](https://gist.github.com/phosphoer/a283cdbeca5d2160d5eed318d0362826) - mario galaxy gravity
@@ -97,6 +98,7 @@ Navigation:
 * [meshcombinewizard](https://bitbucket.org/sirgru/meshcombinewizard) - combines all meshes on the chosen gameObject and its children that share the same material
 * [RoadArchitect](https://github.com/MicroGSD/RoadArchitect) - road system creator featuring dynamic intersections, bridges, etc.
 * [DrawLine](https://github.com/geniikw/drawLine) - procedural line mesh tool.
+* [Deform](https://github.com/keenanwoodall/Deform) - A framework for deforming meshes in the editor and at runtime in Unity.
 
 ## Materials & Shading
 * [Projects by RM](https://www.assetstore.unity3d.com/en/#!/content/21648) - wet surface & skin shader
@@ -111,6 +113,8 @@ Navigation:
 * [Lux Shader Framework](https://github.com/larsbertram69/Lux-2.02-Personal) - Lux 2.02 pbr Shader Framework
 * [Unity Wireframe Shaders](https://github.com/Chaser324/unity-wireframe) - general purpose wireframe shaders
 * [Hologram Shader](https://github.com/andydbc/HologramShader) - simple hologram shader
+* [Kamakura Shaders](https://github.com/kayac/kamakura-shaders/) - a collection of shaders and components focusing on Non-Photorealistic Rendering
+* [Facepunch.Highlight](https://github.com/Facepunch/Facepunch.Highlight) - Mesh outline effect
 
 ## 2D
 * [UnitySVG](https://github.com/MrJoy/UnitySVG) - svg renderer
@@ -122,6 +126,7 @@ Navigation:
 * [PolyMesh](https://github.com/UnityPatterns/PolyMesh) - 2d shape editor
 * [Unity Tilemap](https://github.com/toinfiniityandbeyond/unity-tilemap) - 2D tilemap editor
 * [2D Extras](https://github.com/Unity-Technologies/2d-extras) - reusable 2d scripts (tilemaps, etc.)
+* [Vector Graphics Samples](https://github.com/Unity-Technologies/vector-graphics-samples) - samples of the Vector Graphics features to be used with Unity 2018.1 and newe
 
 ## Networking
 * [UNet Authoritative Networking](https://github.com/atrakeur/unity-unet-authoritative-networking) - authoritative networking implementation
@@ -155,6 +160,7 @@ Navigation:
 * [UI Extensions](https://bitbucket.org/UnityUIExtensions/unity-ui-extensions) - various NGUI extensions/helper/scripts
 * [NGUI Extensions](https://github.com/kimsama/Unity-NGUIExtension) - a few NGUI extensions
 * [Webview CSharp](https://github.com/kimsama/unity3d-webview-csharp) - render websites
+* [Typogenic](https://github.com/Chman/Typogenic) - an easy to use, fast and high-quality 3D text renderer
 
 ## Post-Processing & Rendering
 * [kode80SSR](https://github.com/kode80/kode80SSR) - screen-space reflections 
@@ -194,6 +200,7 @@ Navigation:
 * [DeLightingTool](https://github.com/Unity-Technologies/DeLightingTool) - tool to remove lighting information from textures in a photogrammetry asset pipeline
 * [unity-lut-generator](https://github.com/mattatz/unity-lut-generator) - LookUpTable generator for Unity
 * [SEGI](https://github.com/sonicether/SEGI) - Sonic Ether's voxel-based global illumination system
+* [Aura](https://github.com/raphael-ernaelsten/Aura) - a local simulation of the light scattering into the surrounding medium
 
 ## Mobile
 * [Toast](https://gist.github.com/TarasOsiris/dec42cf3ecca6c854182f385e38dbf57) - android toast notifications
@@ -329,5 +336,7 @@ Navigation:
 * [Shader Calibration Charts](https://oc.unity3d.com/index.php/s/dfc9aa1491ff905f589408aa136eab23) - Unity StandardShader calibration charts
 * [Save Game Free](https://github.com/BayatGames/SaveGameFree) - cross platform, encrypted, online-stored saves
 * [UCompile](https://github.com/SoapCode/UCompile) - Runtime compilation and execution of CSharp code
+* [UDBase](https://github.com/KonH/UDBase) - module-based game template for Unity
+* [Hull-Delaunay-Voronoi](https://github.com/Scrawk/Hull-Delaunay-Voronoi) - Hull, Delaunay and Voronoi algorithms in Unity
 
 [![Analytics](https://ga-beacon.appspot.com/UA-63472612-14/readme)](https://github.com/igrigorik/ga-beacon)
