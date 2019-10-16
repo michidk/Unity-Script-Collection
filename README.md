@@ -339,5 +339,6 @@ Navigation:
 * [UCompile](https://github.com/SoapCode/UCompile) - Runtime compilation and execution of CSharp code
 * [UDBase](https://github.com/KonH/UDBase) - module-based game template for Unity
 * [Hull-Delaunay-Voronoi](https://github.com/Scrawk/Hull-Delaunay-Voronoi) - Hull, Delaunay and Voronoi algorithms in Unity
+* [YTranslate](https://gist.github.com/rubenhorn/e8de0fb635c3936d47cd15dfbaafc3d4) - Machine translation using Yandex Translate
 
 [![Analytics](https://ga-beacon.appspot.com/UA-63472612-14/readme)](https://github.com/igrigorik/ga-beacon)
