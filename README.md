@@ -98,7 +98,9 @@ Navigation:
 * [meshcombinewizard](https://bitbucket.org/sirgru/meshcombinewizard) - combines all meshes on the chosen gameObject and its children that share the same material
 * [RoadArchitect](https://github.com/MicroGSD/RoadArchitect) - road system creator featuring dynamic intersections, bridges, etc.
 * [DrawLine](https://github.com/geniikw/drawLine) - procedural line mesh tool.
-* [Deform](https://github.com/keenanwoodall/Deform) - A framework for deforming meshes in the editor and at runtime in Unity.
+* [Deform](https://github.com/keenanwoodall/Deform) - a framework for deforming meshes in the editor and at runtime in Unity.
+* [2.5D Destruction](https://github.com/Nesh108/Unity-2.5D-Destruction) - breaks 2D sprites into 2.5D fragments
+* [MetaBalls Liquids](https://github.com/Nesh108/Unity_MetaBalls_Liquids) - liquid simulation using MetaBalls
 
 ## Materials & Shading
 * [Projects by RM](https://www.assetstore.unity3d.com/en/#!/content/21648) - wet surface & skin shader
