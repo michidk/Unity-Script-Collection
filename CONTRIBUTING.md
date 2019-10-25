@@ -20,6 +20,7 @@ Please report broken links, outdated assets, and spelling mistakes.
 ## Rules
 * You are allowed to suggest links to your own assets.
 * Look through all the other links and suggestions before submitting your resource to ensure that the list stays free of duplicates.
+* Do not submit script collections or lists like this one.
 
 ## Link Suggestions
 * Please create a pull request containing your addition.
