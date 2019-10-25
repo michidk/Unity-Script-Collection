@@ -303,7 +303,7 @@ Navigation:
 * [Chained Works](https://bitbucket.org/snippets/Lordinarius/8rnLn/chainedworks) - coroutine chained procedures 
 * [TeaTime](https://github.com/alvivar/TeaTime) - timer queue for coroutines
 * [Smart Tags and Layers](https://github.com/nicoplv/smart-tags-and-layers) - generates static values for your tags and layers
-* [UnityRefChecker](https://github.com/haydenjameslee/UnityRefChecker) - A plugin for checking unassigned references in MonoBehaviours at compile time, across scenes.
+* [DTValidator](https://github.com/DarrenTsung/DTValidator) - finds broken and unassigned references
 * [xNode](https://github.com/Siccity/xNode) - easily create node-based plugins
 
 ## Design Patterns
