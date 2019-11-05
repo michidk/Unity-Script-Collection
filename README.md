@@ -54,6 +54,7 @@ Navigation:
 * [UnitySpritesAndBones](https://github.com/Banbury/UnitySpritesAndBones) - skeletal sprite animations
 * [spine-unity](https://github.com/EsotericSoftware/spine-runtimes/tree/master/spine-unity) - import spine animations
 * [ikccd](https://github.com/sunilnayak133/ikccd) - IK Solver using Cyclic Coordinate Descent
+* [Aim-IK](https://github.com/ehsan-mohammadi/Aim-IK) - Procedural orientate character head (and chest) in a direction without using any animation data
 
 ## Controls & Input
 * [InputManager](https://github.com/daemon3000/InputManager) - a powerful input manager
