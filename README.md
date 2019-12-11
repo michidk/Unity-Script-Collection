@@ -226,6 +226,7 @@ Navigation:
 * [Better Defines](https://github.com/TarasOsiris/Better-Defines) - platform dependent preprocessor directive manager
 * [MissingReferencesUnity](https://github.com/liortal53/MissingReferencesUnity) - find missing references
 * [Unity Resource Checker](https://github.com/handcircus/Unity-Resource-Checker) - resource analyzer
+* [Asset Usage Detector](https://github.com/yasirkula/UnityAssetUsageDetector) - checks if an asset is used in code and/or scene files.
 * [Compile Time Tracker](https://github.com/DarrenTsung/compile-time-tracker) - compile time tracker
 * [UnityStudio](https://github.com/RaduMC/UnityStudio) - unity asset export tool
 * [Screen Shooter](https://github.com/PhannGor/Screen-Shooter) - takes screenshots with multiple resolutions at once
