@@ -1,10 +1,8 @@
 # Unity Script Collection
-A maintained collection of useful & **free** unity scripts / libraries / plugins and extensions.
+A maintained collection of **useful** & **free** unity scripts / libraries / plugins and extensions.
 
 If you want to suggest a link, then read the [Contribution Guidelines](CONTRIBUTING.md) first.
 Please report broken links, outdated assets and spelling mistakes. The links are in no particular order. This list is licensed under the [GNU General Public License v3.0](LICENSE) and does only apply to this repository.
-
-I collect links over time in Issue [#1](https://github.com/michidk/Unity-Script-Collection/issues/1), once a month I will categorize them and add them to this list. If you want to get notified about updates, watch this repository or [follow me on Twitter](https://twitter.com/miichidk).
 
 Navigation:
 - [GameObjects & Transforms](#gameobjects--transforms)
