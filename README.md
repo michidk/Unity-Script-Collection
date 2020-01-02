@@ -241,6 +241,8 @@ Navigation:
 * [ScriptExecutionOrder Attribute](https://gist.github.com/Skybladev2/d0d029716b1651cc1947) - attribute to specify execution order
 * [Simple Editor Shortcuts Tools Collection](https://github.com/sirgru/Unity-Simple-Editor-Shortcuts-Tools-Collection) - small collection of simple tools to help in scene editing workflows
 * [Mulligan Renamer](https://github.com/redbluegames/unity-mulligan-renamer) - bulk renaming tool for game objects and assets
+* [BitField Attribute](https://github.com/lee-io/BitField-Attribute) - Enable bit field masking from the Unity Editor
+* [ScriptableObject Menu](https://github.com/lee-io/ScriptableObject-Menu) - Create ScriptableObjects from the Unity Editor
 
 ### Editors
 * [Brainiac](https://github.com/daemon3000/Brainiac) - behaviour tree & (behaviour-)node-based visual editor
