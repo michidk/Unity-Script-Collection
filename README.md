@@ -318,7 +318,6 @@ Navigation:
 * [strangeioc](https://github.com/strangeioc/strangeioc) - inversion of control framework 
 * [Zenject](https://github.com/modesttree/Zenject) - depedency injection framework 
 * [UniRx](https://github.com/neuecc/UniRx) - unity reactive extensions implementation
-* [Ring_Buffer](https://bitbucket.org/sirgru/ring_buffer) - simple implementation of a RingBuffer<T>
 
 ## Utilities
 * [demilib](https://github.com/Demigiant/demilib) - various utilities and tools for Unity
