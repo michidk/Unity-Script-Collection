@@ -220,6 +220,7 @@ Navigation:
 
 ## Editor
 ### Tools
+* [Favorites List](https://github.com/BrokenVector/favorites-list) - mark objects/scenen/assets as favorites to return to them quickly
 * [REX Diagnostics](https://thorgeirk11.github.io/REX-Diagnostics/) - runtime evaluation of c# expressions 
 * [Better Defines](https://github.com/TarasOsiris/Better-Defines) - platform dependent preprocessor directive manager
 * [MissingReferencesUnity](https://github.com/liortal53/MissingReferencesUnity) - find missing references
