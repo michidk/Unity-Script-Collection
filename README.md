@@ -53,6 +53,7 @@ Navigation:
 * [spine-unity](https://github.com/EsotericSoftware/spine-runtimes/tree/master/spine-unity) - import spine animations
 * [ikccd](https://github.com/sunilnayak133/ikccd) - IK Solver using Cyclic Coordinate Descent
 * [Aim-IK](https://github.com/ehsan-mohammadi/Aim-IK) - Procedural orientate character head (and chest) in a direction without using any animation data
+* [RecordAndRepeat](https://github.com/fx-lange/unity-record-and-repeat) - Record and playback of custom data via the timeline
 
 ## Controls & Input
 * [InputManager](https://github.com/daemon3000/InputManager) - a powerful input manager
@@ -68,7 +69,8 @@ Navigation:
 * [Astar for Unity](https://github.com/sharpaccent/Astar-for-Unity) - A* pathfinding 
 * [A* Pathfinding Project](http://arongranberg.com/astar/) - A* pathfinding
 * [UnitySteer](https://github.com/ricardojmendez/UnitySteer) - steering, obstacle avoidance and path following behaviors
-* [SimpleTraffic](https://github.com/Kink3d/SimpleTraffic) - A simple traffic simulation using Nav Mesh. 
+* [SimpleTraffic](https://github.com/Kink3d/SimpleTraffic) - a simple traffic simulation using Nav Mesh
+* [Self-driving-vehicle](https://github.com/Habrador/Self-driving-vehicle) - Car pathfinding using Hybrid A* search algorithm
 
 ## Physics
 * [Mario Galaxy Gravity for Unity](https://gist.github.com/phosphoer/a283cdbeca5d2160d5eed318d0362826) - mario galaxy gravity
@@ -162,6 +164,7 @@ Navigation:
 * [NGUI Extensions](https://github.com/kimsama/Unity-NGUIExtension) - a few NGUI extensions
 * [Webview CSharp](https://github.com/kimsama/unity3d-webview-csharp) - render websites
 * [Typogenic](https://github.com/Chman/Typogenic) - an easy to use, fast and high-quality 3D text renderer
+* [unity-debug-overlay](https://github.com/pandr/unity-debug-overlay) - a fast and (almost) garbage free debug overlay
 
 ## Post-Processing & Rendering
 * [kode80SSR](https://github.com/kode80/kode80SSR) - screen-space reflections 
@@ -319,6 +322,7 @@ Navigation:
 * [strangeioc](https://github.com/strangeioc/strangeioc) - inversion of control framework 
 * [Zenject](https://github.com/modesttree/Zenject) - depedency injection framework 
 * [UniRx](https://github.com/neuecc/UniRx) - unity reactive extensions implementation
+* [Stateless](https://github.com/Patroklo/stateless) - Fork of Stateless dot net statemachine for .Net 3.5
 
 ## Utilities
 * [demilib](https://github.com/Demigiant/demilib) - various utilities and tools for Unity
@@ -340,9 +344,9 @@ Navigation:
 * [UnityCsReference](https://github.com/Unity-Technologies/UnityCsReference) - Unity C# reference source code
 * [Shader Calibration Charts](https://oc.unity3d.com/index.php/s/dfc9aa1491ff905f589408aa136eab23) - Unity StandardShader calibration charts
 * [Save Game Free](https://github.com/BayatGames/SaveGameFree) - cross platform, encrypted, online-stored saves
-* [UCompile](https://github.com/SoapCode/UCompile) - Runtime compilation and execution of CSharp code
+* [UCompile](https://github.com/SoapCode/UCompile) - runtime compilation and execution of CSharp code
 * [UDBase](https://github.com/KonH/UDBase) - module-based game template for Unity
 * [Hull-Delaunay-Voronoi](https://github.com/Scrawk/Hull-Delaunay-Voronoi) - Hull, Delaunay and Voronoi algorithms in Unity
-* [YTranslate](https://gist.github.com/rubenhorn/e8de0fb635c3936d47cd15dfbaafc3d4) - Machine translation using Yandex Translate
+* [YTranslate](https://gist.github.com/rubenhorn/e8de0fb635c3936d47cd15dfbaafc3d4) - machine translation using Yandex Translate
 
 [![Analytics](https://ga-beacon.appspot.com/UA-63472612-14/readme)](https://github.com/igrigorik/ga-beacon)
