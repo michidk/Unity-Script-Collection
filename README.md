@@ -36,105 +36,105 @@ Navigation:
 
 
 ## GameObjects & Transforms
-* [RecyclerKit](https://github.com/prime31/RecyclerKit) - pooling system
-* [UnityOctree](https://github.com/Nition/UnityOctree) - octrees
-* [In-Game Replay System](https://github.com/FeNo/InGameReplay) - record and replay transforms
-* [Unity Scene Query](https://github.com/Real-Serious-Games/Unity-Scene-Query) - library to traverse and query the Unity scene to find particular objects
-* [UnityTools](https://github.com/CaptainHillman/UnityTools) - Runtime transformation gizmos
-* [Unity3DRuntimeTransformGizmo](https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo) - Another runtime transform gizmo
+* [RecyclerKit](https://github.com/prime31/RecyclerKit) - pooling system.
+* [UnityOctree](https://github.com/Nition/UnityOctree) - octrees.
+* [In-Game Replay System](https://github.com/FeNo/InGameReplay) - record and replay transforms.
+* [Unity Scene Query](https://github.com/Real-Serious-Games/Unity-Scene-Query) - library to traverse and query the Unity scene to find particular objects.
+* [UnityTools](https://github.com/CaptainHillman/UnityTools) - Runtime transformation gizmos.
+* [Unity3DRuntimeTransformGizmo](https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo) - Another runtime transform gizmo.
 
 ## Movement & Animation
-* [List View Framework](https://bitbucket.org/Unity-Technologies/list-view-framework) - create dynamic, scrollable lists
-* [Reaktion](https://github.com/keijiro/Reaktion) - audio reaction toolkit
-* [DOTween](https://github.com/Demigiant/dotween) - tween engine
-* [Camera Path Creator](https://www.assetstore.unity3d.com/en/#!/content/84074) - create complex camera paths
-* [Cinemachine BaseRig](https://www.assetstore.unity3d.com/en/#!/content/79898) - procedural camera system
-* [UnitySpritesAndBones](https://github.com/Banbury/UnitySpritesAndBones) - skeletal sprite animations
-* [spine-unity](https://github.com/EsotericSoftware/spine-runtimes/tree/master/spine-unity) - import spine animations
-* [ikccd](https://github.com/sunilnayak133/ikccd) - IK Solver using Cyclic Coordinate Descent
-* [Aim-IK](https://github.com/ehsan-mohammadi/Aim-IK) - Procedural orientate character head (and chest) in a direction without using any animation data
-* [RecordAndRepeat](https://github.com/fx-lange/unity-record-and-repeat) - Record and playback of custom data via the timeline
+* [List View Framework](https://bitbucket.org/Unity-Technologies/list-view-framework) - create dynamic, scrollable lists.
+* [Reaktion](https://github.com/keijiro/Reaktion) - audio reaction toolkit.
+* [DOTween](https://github.com/Demigiant/dotween) - tween engine.
+* [Camera Path Creator](https://www.assetstore.unity3d.com/en/#!/content/84074) - create complex camera paths.
+* [Cinemachine BaseRig](https://www.assetstore.unity3d.com/en/#!/content/79898) - procedural camera system.
+* [UnitySpritesAndBones](https://github.com/Banbury/UnitySpritesAndBones) - skeletal sprite animations.
+* [spine-unity](https://github.com/EsotericSoftware/spine-runtimes/tree/master/spine-unity) - import spine animations.
+* [ikccd](https://github.com/sunilnayak133/ikccd) - IK Solver using Cyclic Coordinate Descent.
+* [Aim-IK](https://github.com/ehsan-mohammadi/Aim-IK) - Procedural orientate character head (and chest) in a direction without using any animation data.
+* [RecordAndRepeat](https://github.com/fx-lange/unity-record-and-repeat) - Record and playback of custom data via the timeline.
 
 ## Controls & Input
-* [InputManager](https://github.com/daemon3000/InputManager) - a powerful input manager
-* [TouchScript](https://github.com/TouchScript/TouchScript) - multitouch library
+* [InputManager](https://github.com/daemon3000/InputManager) - a powerful input manager.
+* [TouchScript](https://github.com/TouchScript/TouchScript) - multitouch library.
 
 ## Character Controller
-* [Unity 2D Platformer Controller](https://github.com/cjddmut/Unity-2D-Platformer-Controller) - 2d platformer character controller
-* [CharacterController2D](https://github.com/prime31/CharacterController2D) - 2d character controller
-* [SuperCharacterController](https://github.com/IronWarrior/SuperCharacterController) - 3d character controller
+* [Unity 2D Platformer Controller](https://github.com/cjddmut/Unity-2D-Platformer-Controller) - 2d platformer character controller.
+* [CharacterController2D](https://github.com/prime31/CharacterController2D) - 2d character controller.
+* [SuperCharacterController](https://github.com/IronWarrior/SuperCharacterController) - 3d character controller.
 
 ## AI & Pathfinding
-* [A Star Pathfinding for Platformers](https://github.com/tutsplus/A-Star-Pathfinding-for-Platformers) - A* for platformers
-* [Astar for Unity](https://github.com/sharpaccent/Astar-for-Unity) - A* pathfinding 
-* [A* Pathfinding Project](http://arongranberg.com/astar/) - A* pathfinding
-* [UnitySteer](https://github.com/ricardojmendez/UnitySteer) - steering, obstacle avoidance and path following behaviors
-* [SimpleTraffic](https://github.com/Kink3d/SimpleTraffic) - a simple traffic simulation using Nav Mesh
-* [Self-driving-vehicle](https://github.com/Habrador/Self-driving-vehicle) - Car pathfinding using Hybrid A* search algorithm
+* [A Star Pathfinding for Platformers](https://github.com/tutsplus/A-Star-Pathfinding-for-Platformers) - A* for platformers.
+* [Astar for Unity](https://github.com/sharpaccent/Astar-for-Unity) - A* pathfinding.
+* [A* Pathfinding Project](http://arongranberg.com/astar/) - A* pathfinding.
+* [UnitySteer](https://github.com/ricardojmendez/UnitySteer) - steering, obstacle avoidance and path following behaviors.
+* [SimpleTraffic](https://github.com/Kink3d/SimpleTraffic) - a simple traffic simulation using Nav Mesh.
+* [Self-driving-vehicle](https://github.com/Habrador/Self-driving-vehicle) - Car pathfinding using Hybrid A* search algorithm.
 
 ## Physics
-* [Mario Galaxy Gravity for Unity](https://gist.github.com/phosphoer/a283cdbeca5d2160d5eed318d0362826) - mario galaxy gravity
-* [Ocean Community Next Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) - water physics/shader
-* [Voxel GPU Physics](https://github.com/jknightdoeswork/gpu-physics-unity) - GPU accelerated voxel physics
-* [Interactive Erosion](https://github.com/Scrawk/Interactive-Erosion) - Runtime fluid erosion for terrain 
+* [Mario Galaxy Gravity for Unity](https://gist.github.com/phosphoer/a283cdbeca5d2160d5eed318d0362826) - mario galaxy gravity.
+* [Ocean Community Next Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) - water physics/shader.
+* [Voxel GPU Physics](https://github.com/jknightdoeswork/gpu-physics-unity) - GPU accelerated voxel physics.
+* [Interactive Erosion](https://github.com/Scrawk/Interactive-Erosion) - Runtime fluid erosion for terrain. 
 
 ## Particles
-* [KvantSpray](https://github.com/keijiro/KvantSpray) - gpu accelerated particles
-* [NVIDIA Hair Works Integration](https://github.com/unity3d-jp/NVIDIAHairWorksIntegration) - Nvidia hair works
-* [Ember Particles](https://twitter.com/Der_Kevin/status/832545397109309440) - turbulent ember particles
-* [SPHFluid](https://github.com/MangoSister/SPHFluid) - Interactive 3D Fluid Simulation based on SPH
+* [KvantSpray](https://github.com/keijiro/KvantSpray) - gpu accelerated particles.
+* [NVIDIA Hair Works Integration](https://github.com/unity3d-jp/NVIDIAHairWorksIntegration) - Nvidia hair works.
+* [Ember Particles](https://twitter.com/Der_Kevin/status/832545397109309440) - turbulent ember particles.
+* [SPHFluid](https://github.com/MangoSister/SPHFluid) - Interactive 3D Fluid Simulation based on SPH.
 
 ## Meshes & Construction
-* [ProceduralToolkit](https://github.com/Syomus/ProceduralToolkit) - procedural mesh toolkit/generator 
-* [Draw](https://gist.github.com/nothke/82dccc121457541fcce32aea7744618a) - draws primitives with lines 
-* [VolumetricLinesUnity](https://github.com/johannesugb/VolumetricLinesUnity) - volumetric lines
-* [giles](https://github.com/procore3d/giles) - 3d runtime level editor
-* [Voxelmetric](https://github.com/Voxelmetric/Voxelmetric) - voxel framework
-* [Procedural Shapes for Unity](https://bitbucket.org/alexzzzz/procedural-shapes-for-unity) - procedural shapes
-* [ICO Sphere Mesh Creator](https://github.com/kaiware007/IcoSphreCreator) - procedural ico spheres
-* [Vertex Painter](https://github.com/slipster216/VertexPaint) - paint information onto vertices
-* [FacePaint](https://github.com/SixWays/FacePaint) - paint triangles of meshes
-* [Simplygon](https://www.assetstore.unity3d.com/en/?&_ga=1.224491866.1155275539.1473983191#!/content/10144) - mesh optimization & lod generation
-* [TextMesh Pro](https://www.assetstore.unity3d.com/en/#!/content/17662) - generate text with custom styling
-* [meshcombinewizard](https://bitbucket.org/sirgru/meshcombinewizard) - combines all meshes on the chosen gameObject and its children that share the same material
+* [ProceduralToolkit](https://github.com/Syomus/ProceduralToolkit) - procedural mesh toolkit/generator. 
+* [Draw](https://gist.github.com/nothke/82dccc121457541fcce32aea7744618a) - draws primitives with lines.
+* [VolumetricLinesUnity](https://github.com/johannesugb/VolumetricLinesUnity) - volumetric lines.
+* [giles](https://github.com/procore3d/giles) - 3d runtime level editor.
+* [Voxelmetric](https://github.com/Voxelmetric/Voxelmetric) - voxel framework.
+* [Procedural Shapes for Unity](https://bitbucket.org/alexzzzz/procedural-shapes-for-unity) - procedural shapes.
+* [ICO Sphere Mesh Creator](https://github.com/kaiware007/IcoSphreCreator) - procedural ico spheres.
+* [Vertex Painter](https://github.com/slipster216/VertexPaint) - paint information onto vertices.
+* [FacePaint](https://github.com/SixWays/FacePaint) - paint triangles of meshes.
+* [Simplygon](https://www.assetstore.unity3d.com/en/?&_ga=1.224491866.1155275539.1473983191#!/content/10144) - mesh optimization & lod generation.
+* [TextMesh Pro](https://www.assetstore.unity3d.com/en/#!/content/17662) - generate text with custom styling.
+* [meshcombinewizard](https://bitbucket.org/sirgru/meshcombinewizard) - combines all meshes on the chosen gameObject and its children that share the same material.
 * [RoadArchitect](https://github.com/MicroGSD/RoadArchitect) - road system creator featuring dynamic intersections, bridges, etc.
 * [DrawLine](https://github.com/geniikw/drawLine) - procedural line mesh tool.
 * [Deform](https://github.com/keenanwoodall/Deform) - a framework for deforming meshes in the editor and at runtime in Unity.
-* [2.5D Destruction](https://github.com/Nesh108/Unity-2.5D-Destruction) - breaks 2D sprites into 2.5D fragments
-* [MetaBalls Liquids](https://github.com/Nesh108/Unity_MetaBalls_Liquids) - liquid simulation using MetaBalls
+* [2.5D Destruction](https://github.com/Nesh108/Unity-2.5D-Destruction) - breaks 2D sprites into 2.5D fragments.
+* [MetaBalls Liquids](https://github.com/Nesh108/Unity_MetaBalls_Liquids) - liquid simulation using MetaBalls.
 
 ## Materials & Shading
-* [Projects by RM](https://www.assetstore.unity3d.com/en/#!/content/21648) - wet surface & skin shader
-* [Ocean Community Next Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) - water physics/shader
-* [Flow Map Shader](https://gist.github.com/TarasOsiris/e0e6e6c3b8fdb0d8074b) - flow map shader working with sprites
-* [VertexPaint](https://github.com/slipster216/VertexPaint) - additional vertex streams
-* [ShaderProject](https://github.com/ellioman/ShaderProject) - shader collection
-* [Skybox Plus](https://github.com/keijiro/SkyboxPlus) - a collection of skybox shaders
-* [Outline Shader](https://gist.github.com/michidk/3b49362e21563a1d66d52f4cf4bdc7ce) - outline shader which accomodates screen width and camera distance
-* [Unity Sprite Uber Shader](https://github.com/traggett/UnitySpriteShaders) - 3D shading for sprites (e.g. normal mapping)
-* [Low Poly Shaders](https://github.com/BrokenVector/LowPolyShaders) - material shaders optimized for Low Poly stylized meshes
-* [Lux Shader Framework](https://github.com/larsbertram69/Lux-2.02-Personal) - Lux 2.02 pbr Shader Framework
-* [Unity Wireframe Shaders](https://github.com/Chaser324/unity-wireframe) - general purpose wireframe shaders
-* [Hologram Shader](https://github.com/andydbc/HologramShader) - simple hologram shader
-* [Kamakura Shaders](https://github.com/kayac/kamakura-shaders/) - a collection of shaders and components focusing on Non-Photorealistic Rendering
-* [Facepunch.Highlight](https://github.com/Facepunch/Facepunch.Highlight) - Mesh outline effect
+* [Projects by RM](https://www.assetstore.unity3d.com/en/#!/content/21648) - wet surface & skin shader.
+* [Ocean Community Next Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) - water physics/shader.
+* [Flow Map Shader](https://gist.github.com/TarasOsiris/e0e6e6c3b8fdb0d8074b) - flow map shader working with sprites.
+* [VertexPaint](https://github.com/slipster216/VertexPaint) - additional vertex streams.
+* [ShaderProject](https://github.com/ellioman/ShaderProject) - shader collection.
+* [Skybox Plus](https://github.com/keijiro/SkyboxPlus) - a collection of skybox shaders.
+* [Outline Shader](https://gist.github.com/michidk/3b49362e21563a1d66d52f4cf4bdc7ce) - outline shader which accomodates screen width and camera distance.
+* [Unity Sprite Uber Shader](https://github.com/traggett/UnitySpriteShaders) - 3D shading for sprites (e.g. normal mapping).
+* [Low Poly Shaders](https://github.com/BrokenVector/LowPolyShaders) - material shaders optimized for Low Poly stylized meshes.
+* [Lux Shader Framework](https://github.com/larsbertram69/Lux-2.02-Personal) - Lux 2.02 pbr Shader Framework.
+* [Unity Wireframe Shaders](https://github.com/Chaser324/unity-wireframe) - general purpose wireframe shaders.
+* [Hologram Shader](https://github.com/andydbc/HologramShader) - simple hologram shader.
+* [Kamakura Shaders](https://github.com/kayac/kamakura-shaders/) - a collection of shaders and components focusing on Non-Photorealistic Rendering.
+* [Facepunch.Highlight](https://github.com/Facepunch/Facepunch.Highlight) - Mesh outline effect.
 
 ## 2D
-* [UnitySVG](https://github.com/MrJoy/UnitySVG) - svg renderer
-* [UnityStbEasyFont](https://github.com/aras-p/UnityStbEasyFont) - text mesh generator
-* [SpriteLightKit](https://github.com/prime31/SpriteLightKit) - 2d sprite lights
-* [2D Light of Sight Unity](https://github.com/f15gdsy/2D-Light-of-Sight-Unity) - 2d flat geometric lightning
-* [Unity Sprite Uber Shader](https://github.com/traggett/UnitySpriteShaders) - 3D shading for sprites (e.g. normal mapping)
-* [Fungus](https://github.com/snozbot/fungus) - 2d interactive storytelling game framework
-* [PolyMesh](https://github.com/UnityPatterns/PolyMesh) - 2d shape editor
-* [Unity Tilemap](https://github.com/toinfiniityandbeyond/unity-tilemap) - 2D tilemap editor
-* [2D Extras](https://github.com/Unity-Technologies/2d-extras) - reusable 2d scripts (tilemaps, etc.)
-* [Vector Graphics Samples](https://github.com/Unity-Technologies/vector-graphics-samples) - samples of the Vector Graphics features to be used with Unity 2018.1 and newe
+* [UnitySVG](https://github.com/MrJoy/UnitySVG) - svg renderer.
+* [UnityStbEasyFont](https://github.com/aras-p/UnityStbEasyFont) - text mesh generator.
+* [SpriteLightKit](https://github.com/prime31/SpriteLightKit) - 2d sprite lights.
+* [2D Light of Sight Unity](https://github.com/f15gdsy/2D-Light-of-Sight-Unity) - 2d flat geometric lightning.
+* [Unity Sprite Uber Shader](https://github.com/traggett/UnitySpriteShaders) - 3D shading for sprites (e.g. normal mapping).
+* [Fungus](https://github.com/snozbot/fungus) - 2d interactive storytelling game framework.
+* [PolyMesh](https://github.com/UnityPatterns/PolyMesh) - 2d shape editor.
+* [Unity Tilemap](https://github.com/toinfiniityandbeyond/unity-tilemap) - 2D tilemap editor.
+* [2D Extras](https://github.com/Unity-Technologies/2d-extras) - reusable 2d scripts (tilemaps, etc.).
+* [Vector Graphics Samples](https://github.com/Unity-Technologies/vector-graphics-samples) - samples of the Vector Graphics features to be used with Unity 2018.1 and newe.
 
 ## Networking
-* [UNet Authoritative Networking](https://github.com/atrakeur/unity-unet-authoritative-networking) - authoritative networking implementation
-* [MLAPI](https://github.com/MidLevel/MLAPI) An alternative to Unity's UNET high level API, allows for separate server/client projects and more
-* [Barebones Master Server](https://github.com/alvyxaz/barebones-masterserver) - Host your own custom master server setup, avoid CCU fees 
+* [UNet Authoritative Networking](https://github.com/atrakeur/unity-unet-authoritative-networking) - authoritative networking implementation.
+* [MLAPI](https://github.com/MidLevel/MLAPI) An alternative to Unity's UNET high level API, allows for separate server/client projects and more.
+* [Barebones Master Server](https://github.com/alvyxaz/barebones-masterserver) - Host your own custom master server setup, avoid CCU fees.
 
 ## VR
 * [SteamVR](https://github.com/ValveSoftware/steamvr_unity_plugin) - VR SDK
