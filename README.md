@@ -258,7 +258,6 @@ Navigation:
 * [PolyMesh](https://github.com/UnityPatterns/PolyMesh) - 2d shape editor.
 * [VertexPaint](https://github.com/slipster216/VertexPaint) - vertex data painter.
 * [SabreCSG](https://github.com/sabresaurus/SabreCSG) - a set of level design tools for building complex levels.
-* [Constants Generator Kit](https://github.com/LostPolygon/ConstantsGeneratorKit) - generates static classes for layers, scenes, tags and resources.
 * [Unity Tilemap](https://github.com/toinfiniityandbeyond/unity-tilemap) - 2D tilemap editor.
 * [Node Editor Framework](https://github.com/Seneral/Node_Editor_Framework) - Node Editor Framework for creating node based displays and editors.
 * [Unity Event Visualizer](https://github.com/MephestoKhaan/UnityEventVisualizer) - graph editor for viewing all UnityEvents.
