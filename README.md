@@ -96,7 +96,7 @@ Navigation:
 * [FacePaint](https://github.com/SixWays/FacePaint) - paint triangles of meshes.
 * [Simplygon](https://www.assetstore.unity3d.com/en/?&_ga=1.224491866.1155275539.1473983191#!/content/10144) - mesh optimization & lod generation.
 * [TextMesh Pro](https://www.assetstore.unity3d.com/en/#!/content/17662) - generate text with custom styling.
-* [meshcombinewizard](https://bitbucket.org/sirgru/meshcombinewizard) - combines all meshes on the chosen gameObject and its children that share the same material.
+* [meshcombinewizard](https://github.com/sirgru/MeshCombineWizard) - combines all meshes on the chosen gameObject and its children that share the same material.
 * [RoadArchitect](https://github.com/MicroGSD/RoadArchitect) - road system creator featuring dynamic intersections, bridges, etc.
 * [DrawLine](https://github.com/geniikw/drawLine) - procedural line mesh tool.
 * [Deform](https://github.com/keenanwoodall/Deform) - a framework for deforming meshes in the editor and at runtime in Unity.
