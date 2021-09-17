@@ -349,6 +349,7 @@ Navigation:
 * [Hull-Delaunay-Voronoi](https://github.com/Scrawk/Hull-Delaunay-Voronoi) - Hull, Delaunay and Voronoi algorithms in Unity.
 * [YTranslate](https://gist.github.com/rubenhorn/e8de0fb635c3936d47cd15dfbaafc3d4) - machine translation using Yandex Translate.
 * [AR Support Checker](https://github.com/Rozhovetskyi/AR-Support-Checker) - plain detection of AR supported (ARCore, ARKit, AR Foundation) devices.
+* [Steam Microtransaction API Handler](https://github.com/jasielmacedo/steam-microtransaction-api/) - API for Steam In-Game Purchase with examples using Unity
 
 
 [![Analytics](https://ga-beacon.appspot.com/UA-63472612-14/readme)](https://github.com/igrigorik/ga-beacon).
