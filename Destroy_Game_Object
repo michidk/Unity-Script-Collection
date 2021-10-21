@@ -1,0 +1,12 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Enemy_Destroy : MonoBehaviour
+{
+    Rigidbody rb;
+    private void OnCollisionEnter(Collision collision)
+    {
+        Destroy(gameObject);
+    }    
+}
