@@ -261,6 +261,7 @@ Navigation:
 * [Unity Tilemap](https://github.com/toinfiniityandbeyond/unity-tilemap) - 2D tilemap editor.
 * [Node Editor Framework](https://github.com/Seneral/Node_Editor_Framework) - Node Editor Framework for creating node based displays and editors.
 * [Unity Event Visualizer](https://github.com/MephestoKhaan/UnityEventVisualizer) - graph editor for viewing all UnityEvents.
+* [Runtime Node editor](https://github.com/cemuka/UnityRuntimeNodeEditor) - Unity runtime node editor using with Unity UI.
 
 ### Inspector Extensions
 * [Reorderable Lists](https://bitbucket.org/rotorz/reorderable-list-editor-field-for-unity) - reorderable list field.
