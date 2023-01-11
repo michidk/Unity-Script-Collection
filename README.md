@@ -152,6 +152,7 @@ Navigation:
 * [Reaktion](https://github.com/keijiro/Reaktion) - audio reaction toolkit (mac only).
 * [DefaultMicrophone](https://github.com/GabeBigBoxVR/UnityDefaultMicrophone) - gets the default microphone (windows only).
 * [Lasp](https://github.com/keijiro/Lasp) - Low-latency Audio Signal Processing plugin for Unity.
+* [Unity-Audio-Manager](https://github.com/MathewHDYT/Unity-Audio-Manager) - Plugin, that allows to easily play/change/stop/mute/... sounds in 2D/3D.
 
 ## UI
 * [Unity UI Extensions](https://bitbucket.org/ddreaper/unity-ui-extensions) - collection of ui extensions.
