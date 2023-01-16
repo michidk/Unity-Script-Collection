@@ -248,6 +248,7 @@ Navigation:
 * [Mulligan Renamer](https://github.com/redbluegames/unity-mulligan-renamer) - bulk renaming tool for game objects and assets.
 * [BitField Attribute](https://github.com/lee-io/BitField-Attribute) - Enable bit field masking from the Unity Editor.
 * [ScriptableObject Menu](https://github.com/lee-io/ScriptableObject-Menu) - Create ScriptableObjects from the Unity Editor.
+* [StableDiffusionUnityTools](https://github.com/KonH/StableDiffusionUnityTools) - Editor assets generation via Stable Diffusion.
 
 ### Editors
 * [Brainiac](https://github.com/daemon3000/Brainiac) - behaviour tree & (behaviour-)node-based visual editor.
