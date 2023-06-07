@@ -358,6 +358,3 @@ Navigation:
 * [Steam Microtransaction API Handler](https://github.com/jasielmacedo/steam-microtransaction-api/) - API for Steam In-Game Purchase with examples using Unity
 * [Trimmer](https://github.com/sttz/trimmer) - An editor, build and player configuration framework for Unity.
 * [Gamium](https://github.com/dogu-team/gamium) - Game test automation library, scripting the behavior of game users.
-
-
-[![Analytics](https://ga-beacon.appspot.com/UA-63472612-14/readme)](https://github.com/igrigorik/ga-beacon).
