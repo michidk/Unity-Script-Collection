@@ -138,7 +138,7 @@ Navigation:
 * [Barebones Master Server](https://github.com/alvyxaz/barebones-masterserver) - Host your own custom master server setup, avoid CCU fees.
 * [Fish-Net](https://github.com/FirstGearGames/FishNet) - free networking solution built from ground up with synchronization of states and logic
 * [PlayFab](https://github.com/PlayFab) - PlayFab is a backend-as-a-service for games. Provides SDK's too.
-
+* [UGS- Unity Gaming Services](https://unity.com/solutions/gaming-services) - FROM DEVOPS TO LIVEOPS IN ONE PLATFORM. A complete service ecosystem for live games (Grow your game, Engage your players, Build your foundation)
 
 ## VR
 * [SteamVR](https://github.com/ValveSoftware/steamvr_unity_plugin) - VR SDK.
