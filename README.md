@@ -136,7 +136,9 @@ Navigation:
 * [UNet Authoritative Networking](https://github.com/atrakeur/unity-unet-authoritative-networking) - authoritative networking implementation.
 * [MLAPI](https://github.com/MidLevel/MLAPI) An alternative to Unity's UNET high level API, allows for separate server/client projects and more.
 * [Barebones Master Server](https://github.com/alvyxaz/barebones-masterserver) - Host your own custom master server setup, avoid CCU fees.
-* [Fish-Net](https://github.com/FirstGearGames/FishNet) - free networking solution built from ground up with synchronization of states and logic 
+* [Fish-Net](https://github.com/FirstGearGames/FishNet) - free networking solution built from ground up with synchronization of states and logic
+* [PlayFab](https://github.com/PlayFab) - PlayFab is a backend-as-a-service for games. Provides SDK's too.
+
 
 ## VR
 * [SteamVR](https://github.com/ValveSoftware/steamvr_unity_plugin) - VR SDK.
