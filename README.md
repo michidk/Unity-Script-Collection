@@ -40,7 +40,6 @@ Navigation:
 * [UnityOctree](https://github.com/Nition/UnityOctree) - octrees.
 * [In-Game Replay System](https://github.com/FeNo/InGameReplay) - record and replay transforms.
 * [Unity Scene Query](https://github.com/Real-Serious-Games/Unity-Scene-Query) - library to traverse and query the Unity scene to find particular objects.
-* [UnityTools](https://github.com/CaptainHillman/UnityTools) - Runtime transformation gizmos.
 * [Unity3DRuntimeTransformGizmo](https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo) - Another runtime transform gizmo.
 
 ## Movement & Animation
