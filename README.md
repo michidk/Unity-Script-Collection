@@ -71,6 +71,7 @@ Navigation:
 * [SimpleTraffic](https://github.com/Kink3d/SimpleTraffic) - a simple traffic simulation using Nav Mesh.
 * [Self-driving-vehicle](https://github.com/Habrador/Self-driving-vehicle) - Car pathfinding using Hybrid A* search algorithm.
 * [GOAP](https://github.com/crashkonijn/GOAP) - Multithreaded Goal Oriented Action Planner for Unity.
+* [DotRecast](https://github.com/ikpil/DotRecast) - a port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#.
 
 ## Physics
 * [Mario Galaxy Gravity for Unity](https://gist.github.com/phosphoer/a283cdbeca5d2160d5eed318d0362826) - mario galaxy gravity.
