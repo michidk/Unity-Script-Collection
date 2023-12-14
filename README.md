@@ -344,7 +344,7 @@ Navigation:
 * [Projeny](https://github.com/modesttree/projeny) - project management. 
 * [CUDLR](https://github.com/proletariatgames/CUDLR) - remote debugging and logging console.
 * [WebGL - Simple Loading Fix](http://designagame.eu/2016/09/is-unity-webgl-loading-a-simple-fix/) - custom loading bar for the webgl loader.
-* [UtilityKit](https://github.com/prime31/UtilityKit) - SerializationUtil, SpriteAnimator, SpriteAnimator, MathHeloers, AutoSnap, ...
+* [UtilityKit](https://github.com/prime31/UtilityKit) - SerializationUtil, SpriteAnimator, SpriteAnimator, MathHelpers, AutoSnap, ...
 * [Remove Boo.Lang and UnityScript Hints](https://gist.github.com/jbevain/a982cc580fb796c93e4e) - Project Generation Hook to remove references to Boo.Lang and UnityScript assemblies.
 * [Asset Store Batch Mode](https://github.com/thinksquirrel/asset-store-batch-mode) - API for uploading Unity Asset Store packages.
 * [Unity Size Explorer](https://github.com/aschearer/unitysizeexplorer) - analyzes the disk space usage of your build.
