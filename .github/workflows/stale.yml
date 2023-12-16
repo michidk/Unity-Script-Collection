@@ -1,0 +1,27 @@
+name: Mark stale issues and pull requests
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+permissions:
+  pull-requests: write
+
+jobs:
+  stale:
+    runs-on: ubuntu-22.04
+    permissions:
+      contents: write
+      issues: write
+      pull-requests: write
+    steps:
+        - uses: actions/stale@v9
+          with:
+            repo-token: ${{ secrets.GITHUB_TOKEN }}
+            days-before-stale: 30
+            days-before-close: 14
+            stale-issue-message: 'This issue has been automatically marked as stale because it has not had recent activity. It will be closed if no further activity occurs.'
+            stale-pr-message: 'This PR has been automatically marked as stale because it has not had recent activity. It will be closed if no further activity occurs.'
+            exempt-issue-labels: 'in-progress, no-stale'
+            exempt-pr-labels: 'in-progress, no-stale'
+            remove-stale-when-updated: true
