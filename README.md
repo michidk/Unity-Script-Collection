@@ -330,7 +330,8 @@ Navigation:
 * [Zenject](https://github.com/modesttree/Zenject) - depedency injection framework. 
 * [UniRx](https://github.com/neuecc/UniRx) - unity reactive extensions implementation.
 * [Stateless](https://github.com/Patroklo/stateless) - Fork of Stateless dot net statemachine for .Net 3.5.
-* [UniTask] (https://github.com/Cysharp/UniTask) - An efficient allocation free async/await integration for Unity.
+* [UniTask](https://github.com/Cysharp/UniTask) - An efficient allocation free async/await integration for Unity.
+* [UniState](https://github.com/bazyleu/UniState) - Code architecture framework for Unity, designed around State pattern.
 
 ## Utilities
 * [demilib](https://github.com/Demigiant/demilib) - various utilities and tools for Unity.
