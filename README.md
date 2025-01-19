@@ -46,8 +46,7 @@ Navigation:
 * [List View Framework](https://bitbucket.org/Unity-Technologies/list-view-framework) - create dynamic, scrollable lists.
 * [Reaktion](https://github.com/keijiro/Reaktion) - audio reaction toolkit.
 * [DOTween](https://github.com/Demigiant/dotween) - tween engine.
-* [Camera Path Creator](https://www.assetstore.unity3d.com/en/#!/content/84074) - create complex camera paths.
-* [Cinemachine BaseRig](https://www.assetstore.unity3d.com/en/#!/content/79898) - procedural camera system.
+* [Camera Path Creator](https://assetstore.unity.com/packages/tools/camera/camera-path-creator-84074) - create complex camera paths.
 * [UnitySpritesAndBones](https://github.com/Banbury/UnitySpritesAndBones) - skeletal sprite animations.
 * [spine-unity](https://github.com/EsotericSoftware/spine-runtimes/tree/master/spine-unity) - import spine animations.
 * [ikccd](https://github.com/sunilnayak133/ikccd) - IK Solver using Cyclic Coordinate Descent.
@@ -91,12 +90,10 @@ Navigation:
 * [VolumetricLinesUnity](https://github.com/johannesugb/VolumetricLinesUnity) - volumetric lines.
 * [giles](https://github.com/procore3d/giles) - 3d runtime level editor.
 * [Voxelmetric](https://github.com/Voxelmetric/Voxelmetric) - voxel framework.
-* [Procedural Shapes for Unity](https://bitbucket.org/alexzzzz/procedural-shapes-for-unity) - procedural shapes.
 * [ICO Sphere Mesh Creator](https://github.com/kaiware007/IcoSphreCreator) - procedural ico spheres.
 * [Vertex Painter](https://github.com/slipster216/VertexPaint) - paint information onto vertices.
 * [FacePaint](https://github.com/SixWays/FacePaint) - paint triangles of meshes.
-* [Simplygon](https://www.assetstore.unity3d.com/en/?&_ga=1.224491866.1155275539.1473983191#!/content/10144) - mesh optimization & lod generation.
-* [TextMesh Pro](https://www.assetstore.unity3d.com/en/#!/content/17662) - generate text with custom styling.
+* [TextMesh Pro](https://docs.unity3d.com/Packages/com.unity.ugui@2.0/manual/TextMeshPro/index.html) - generate text with custom styling.
 * [meshcombinewizard](https://github.com/sirgru/MeshCombineWizard) - combines all meshes on the chosen gameObject and its children that share the same material.
 * [RoadArchitect](https://github.com/MicroGSD/RoadArchitect) - road system creator featuring dynamic intersections, bridges, etc.
 * [DrawLine](https://github.com/geniikw/drawLine) - procedural line mesh tool.
@@ -105,7 +102,6 @@ Navigation:
 * [MetaBalls Liquids](https://github.com/Nesh108/Unity_MetaBalls_Liquids) - liquid simulation using MetaBalls.
 
 ## Materials & Shading
-* [Projects by RM](https://www.assetstore.unity3d.com/en/#!/content/21648) - wet surface & skin shader.
 * [Ocean Community Next Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) - water physics/shader.
 * [Flow Map Shader](https://gist.github.com/TarasOsiris/e0e6e6c3b8fdb0d8074b) - flow map shader working with sprites.
 * [VertexPaint](https://github.com/slipster216/VertexPaint) - additional vertex streams.
@@ -118,7 +114,6 @@ Navigation:
 * [Unity Wireframe Shaders](https://github.com/Chaser324/unity-wireframe) - general purpose wireframe shaders.
 * [Hologram Shader](https://github.com/andydbc/HologramShader) - simple hologram shader.
 * [Kamakura Shaders](https://github.com/kayac/kamakura-shaders/) - a collection of shaders and components focusing on Non-Photorealistic Rendering.
-* [Facepunch.Highlight](https://github.com/Facepunch/Facepunch.Highlight) - Mesh outline effect.
 
 ## 2D
 * [UnitySVG](https://github.com/MrJoy/UnitySVG) - svg renderer.
@@ -142,7 +137,7 @@ Navigation:
 
 ## VR
 * [SteamVR](https://github.com/ValveSoftware/steamvr_unity_plugin) - VR SDK.
-* [The Lab Renderer](https://www.assetstore.unity3d.com/en/#!/content/63141) - VR renderer by Valve.
+* [The Lab Renderer](https://assetstore.unity.com/packages/tools/the-lab-renderer-63141) - VR renderer by Valve.
 * [VRTK](https://github.com/thestonefox/VRTK) - contains useful scripts for building VR games.
 * [NewtonVR](https://github.com/TomorrowTodayLabs/NewtonVR) - VR physics and interactions.
 * [Cutie Keys](https://github.com/NormalVR/CutieKeys/) - VR keyboard.
@@ -158,12 +153,10 @@ Navigation:
 * [Unity-Audio-Manager](https://github.com/MathewHDYT/Unity-Audio-Manager) - Plugin, that allows to easily play/change/stop/mute/... sounds in 2D/3D.
 
 ## UI
-* [Unity UI Extensions](https://bitbucket.org/ddreaper/unity-ui-extensions) - collection of ui extensions.
 * [Book Page Curl](https://github.com/Dandarawy/Unity3DBookPageCurl) - page curl transition.
 * [Open Pause Menu](https://github.com/GreatArcStudios/unitypausemenu) - read-to-use pause menu.
 * [Lunar Mobile Console](https://github.com/SpaceMadness/lunar-unity-console) - debug console for mobiles.
 * [InfinityScroll](https://github.com/ivomarel/InfinityScroll) - infinite scrollrects.
-* [TextMesh Pro](https://www.assetstore.unity3d.com/en/#!/content/17662) - generate text with custom styling.
 * [EasyButtons](https://github.com/madsbangh/EasyButtons) - create buttons in the inspector using annotations.
 * [UI Extensions](https://bitbucket.org/UnityUIExtensions/unity-ui-extensions) - various NGUI extensions/helper/scripts.
 * [NGUI Extensions](https://github.com/kimsama/Unity-NGUIExtension) - a few NGUI extensions.
@@ -190,7 +183,6 @@ Navigation:
 * [KinoGlitch](https://github.com/keijiro/KinoGlitch) - glitch effect.
 * [KinoDatamosh](https://github.com/keijiro/KinoDatamosh) - datamosh. 
 * [unity vhsglitch](https://github.com/staffantan/unity-vhsglitch) - vhs glitch effect.
-* [Scanline Shader](https://bitbucket.org/Bitcake-Studio/bitstrap/src/e912c1e939700f42956272290d3e8c293f90c142/Assets/BitStrap/Shaders/Scanline.shader) - scanline effect.
 * [KinoFog](https://github.com/keijiro/KinoFog) - global fog. 
 * [KinoBloom](https://github.com/keijiro/KinoBloom) - bloom.
 * [KinoBokeh](https://github.com/keijiro/KinoBokeh) - bokeh effect. 
@@ -200,7 +192,6 @@ Navigation:
 * [LightShafts](https://github.com/robertcupisz/LightShafts) - light shafts.
 * [VolumetricLights](https://github.com/SlightlyMad/VolumetricLights) - volumetric lights.
 * [SonarFx](https://github.com/keijiro/SonarFx) - wave patterns. 
-* [Cinematic Image Effects](https://bitbucket.org/Unity-Technologies/cinematic-image-effects) - cinematic image effects.
 * [Post-processing Stack](https://github.com/Unity-Technologies/PostProcessing) - multiple image effects in one pipeline.
 * [Moments](https://github.com/Chman/Moments) - gif recorder.
 * [uDesktopDuplication](https://github.com/hecomi/uDesktopDuplication) - realtime screen capture as Texture2D.
@@ -209,16 +200,13 @@ Navigation:
 * [DeLightingTool](https://github.com/Unity-Technologies/DeLightingTool) - tool to remove lighting information from textures in a photogrammetry asset pipeline.
 * [unity-lut-generator](https://github.com/mattatz/unity-lut-generator) - LookUpTable generator for Unity.
 * [SEGI](https://github.com/sonicether/SEGI) - Sonic Ether's voxel-based global illumination system.
-* [Aura](https://github.com/raphael-ernaelsten/Aura) - a local simulation of the light scattering into the surrounding medium.
 
 ## Mobile
 * [Toast](https://gist.github.com/TarasOsiris/dec42cf3ecca6c854182f385e38dbf57) - android toast notifications.
-* [FBSucks](https://gist.github.com/PhannGor/b8eec5911913d7e6eac6) - android share image & text.
 * [UnityShowAndroidStatusBar](https://github.com/Over17/UnityShowAndroidStatusBar) - android show statusbar.
 * [Google VR SDK](https://github.com/googlevr/gvr-unity-sdk) - google mobile vr sdk.
 * [Unity Webview](https://github.com/gree/unity-webview) - webview overlay.
 * [CUDLR](https://github.com/proletariatgames/CUDLR) - remote debugging and logging console.
-* [Simplygon](https://www.assetstore.unity3d.com/en/?&_ga=1.224491866.1155275539.1473983191#!/content/10144) - mesh optimization & lod generation.
 
 ## Debug
 * [uREPL](https://github.com/hecomi/uREPL) - runtime evaluation of c# expressions.
@@ -243,8 +231,8 @@ Navigation:
 * [CurveTexture](https://github.com/slipster216/CurveTexture) - bake curves into texture. 
 * [Unity3D Rainbow Folders](https://github.com/PhannGor/unity3d-rainbow-folders) - folder icons.
 * [Unity Themes](https://github.com/zios/unity-themes) - editor themes.
-* [Tree Randomizer](https://www.assetstore.unity3d.com/en/#!/content/59228) - randomize unity trees.
-* [Render Settings Duplicator](https://www.assetstore.unity3d.com/en/#!/content/58831) - clones the render settings from one scene to another.
+* [Tree Randomizer](https://assetstore.unity.com/packages/tools/utilities/tree-randomizer-59228) - randomize unity trees.
+* [Render Settings Duplicator](https://assetstore.unity.com/packages/tools/particles-effects/render-settings-duplicator-58831) - clones the render settings from one scene to another.
 * [Piviot Transform Helper](https://twitter.com/talecrafter/status/780812894502084609) - adds piviot creation shortcuts to the context menu.
 * [ScriptExecutionOrder Attribute](https://gist.github.com/Skybladev2/d0d029716b1651cc1947) - attribute to specify execution order.
 * [Simple Editor Shortcuts Tools Collection](https://github.com/sirgru/Unity-Simple-Editor-Shortcuts-Tools-Collection) - small collection of simple tools to help in scene editing workflows.
@@ -271,15 +259,12 @@ Navigation:
 
 ### Inspector Extensions
 * [Reorderable Lists](https://bitbucket.org/rotorz/reorderable-list-editor-field-for-unity) - reorderable list field.
-* [Ordered Dictionary](https://bitbucket.org/rotorz/ordered-dictionary-asset-for-unity) - ordered dictionary field.
 * [ClassTypeReference](https://bitbucket.org/rotorz/classtypereference-for-unity) - class type reference field.
 * [Unity3D ExtendedEvent](https://github.com/Thundernerd/Unity3D-ExtendedEvent) - extended event selector.
 * [Property Drawer Collection](https://github.com/anchan828/property-drawer-collection) - collection of property drawers.
 * [Node Inspector](https://github.com/nicloay/Node-Inspector) - node based inspector.
 * [ColorBands](https://github.com/rstecca/ColorBands) - color bands.
-* [QuickEvent](https://www.assetstore.unity3d.com/en/#!/content/53869) - persistent event handlers with static or dynamic values.
 * [Reorder Components](https://twitter.com/mrpodunkian/status/715309192886624256) - reorder components on your GameObjects.
-* [AwesomeComponent](https://gist.github.com/nicoplv/df3368eb38849a3f76a97fc27ba8ca62) - auto load assets on SerializedFields.
 * [ScenePreview Inspector](http://diegogiacomelli.com.br/unity3d-scenepreview-inspector/) - view scene preview in inspector.
 
 ### Importer
@@ -300,7 +285,6 @@ Navigation:
 * [Facebook SDK](https://github.com/facebook/facebook-sdk-for-unity) - Facebook sdk.
 * [Reign Unity Plugin](https://github.com/reignstudios/Reign-Unity-Plugin5) - unified mobile api.
 * [GetSocial SDK](https://github.com/getsocial-im/getsocial-unity-sdk) - community api.
-* [SOOMLA Framework](https://github.com/soomla/unity3d-store) - store api.
 * [Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET) - c# wrapper for valve's Steamworks API.
 * [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - Steamworks C# API (not all features implemented, but better API).
 * [twitter-for-unity](https://github.com/toofu37/twitter-for-unity) - Twitter API Client for Unity.
@@ -340,7 +324,6 @@ Navigation:
 ## Other
 * [Unity Right Click](https://gist.github.com/adamtuliper/48a6e2ce3d9b5e72be36) - windows context menu extension: 'open with unity'.
 * [No Hot-Reload](https://capeguy.co.uk/2015/06/no-more-unity-hot-reload/) - prevent unity hot-reloads.
-* [Unity C# 5.0 and 6.0 Integration](https://bitbucket.org/alexzzzz/unity-c-5.0-and-6.0-integration) - c# 5 & 6 integration for unity.
 * [FLUnity](https://github.com/canab/flunity) - flash to unity.
 * [Projeny](https://github.com/modesttree/projeny) - project management. 
 * [CUDLR](https://github.com/proletariatgames/CUDLR) - remote debugging and logging console.
@@ -351,7 +334,6 @@ Navigation:
 * [Unity Size Explorer](https://github.com/aschearer/unitysizeexplorer) - analyzes the disk space usage of your build.
 * [Better Unity Script Templates](https://github.com/BrokenVector/BetterUnityScriptTemplates) - improved Script templates.
 * [UnityCsReference](https://github.com/Unity-Technologies/UnityCsReference) - Unity C# reference source code.
-* [Shader Calibration Charts](https://oc.unity3d.com/index.php/s/dfc9aa1491ff905f589408aa136eab23) - Unity StandardShader calibration charts.
 * [Save Game Free](https://github.com/BayatGames/SaveGameFree) - cross platform, encrypted, online-stored saves.
 * [UCompile](https://github.com/SoapCode/UCompile) - runtime compilation and execution of CSharp code.
 * [UDBase](https://github.com/KonH/UDBase) - module-based game template for Unity.
