@@ -198,6 +198,7 @@ Navigation:
 * [Unity File Debug](https://github.com/Sacred-Seed-Studio/Unity-File-Debug) - enhanced Debug.Log with file export and web viewer.
 * [Immediate Window](https://docs.unity3d.com/Packages/com.unity.immediate-window@latest/index.html) -- Type code and get immediate feedback with object inspection like chrome console debugger.
 * [Consolation](https://github.com/mminer/consolation) - in-game debug console.
+* [Dev Console](https://github.com/kureysalp/Unity-Dev-Console) - drop-down developer console with self-registering typed commands.
 
 ## Editor
 ### Tools
