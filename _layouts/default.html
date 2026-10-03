@@ -6,42 +6,70 @@
     <meta name="color-scheme" content="light dark">
     <title>{% if page.url != '/' and page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
     <meta name="description" content="{{ site.description }}">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.time | date: '%s' }}">
   </head>
   <body>
+    {% assign repo_url = 'https://github.com/' | append: site.github.repository_nwo %}
+    {% assign contributing_url = repo_url | append: '/blob/master/CONTRIBUTING.md' %}
     <header class="site-header">
       <div class="wrap">
-        <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <a class="brand" href="{{ '/' | relative_url }}">
+          <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"><path d="M12 2 3 7v10l9 5 9-5V7z"/><path d="m3 7 9 5 9-5M12 12v10"/></svg>
+          {{ site.title }}
+        </a>
         <nav class="links">
-          <a href="https://github.com/{{ site.github.repository_nwo }}/blob/master/CONTRIBUTING.md">Contribute</a>
-          <a href="https://github.com/{{ site.github.repository_nwo }}">GitHub</a>
+          <a class="contribute" href="{{ contributing_url }}">Contribute</a>
+          <a href="{{ repo_url }}">GitHub</a>
         </nav>
       </div>
     </header>
 
-    <main class="wrap">
-      {% if page.url == '/' %}
-      <div class="toolbar" id="toolbar" hidden>
-        <input id="search" type="search" placeholder="Search {{ site.title }}…  (press / to focus)" autocomplete="off" spellcheck="false" aria-label="Search the list">
-        <span id="count" class="count" aria-live="polite"></span>
+    {% if page.url == '/' %}
+    <section class="hero">
+      <div class="wrap">
+        <h1>{{ site.title }}</h1>
+        <p class="tagline">{{ site.description }}</p>
+        <p class="hero-meta"><span id="stats"></span><a href="{{ contributing_url }}">Suggest a link →</a></p>
+      </div>
+    </section>
+
+    <div class="toolbar" id="toolbar" hidden>
+      <div class="wrap">
+        <label class="search">
+          <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <input id="search" type="search" placeholder="Search the collection…" autocomplete="off" spellcheck="false" aria-label="Search the list">
+          <span id="count" class="count" aria-live="polite"></span>
+          <kbd title="Press / to search">/</kbd>
+        </label>
         <nav id="categories" class="categories" aria-label="Categories"></nav>
       </div>
-      {% endif %}
+    </div>
+    {% endif %}
 
+    <main class="wrap">
       <article class="content{% if page.url == '/' %} list{% endif %}" id="content">
         {{ content }}
       </article>
 
-      <p id="empty" class="empty" hidden>No entries match your search.</p>
+      <div id="empty" class="empty" hidden>
+        <p class="empty-title">No matches for “<span id="empty-query"></span>”</p>
+        <p>Try fewer or different words, or <button type="button" id="clear" class="link-button">clear the search</button>.</p>
+        <p>Know a package that belongs here? <a href="{{ contributing_url }}">Suggest it</a>.</p>
+      </div>
     </main>
 
-    <footer class="site-footer wrap">
-      Licensed under the <a href="https://github.com/{{ site.github.repository_nwo }}/blob/master/LICENSE">GNU GPL v3.0</a>.
-      Missing something? <a href="https://github.com/{{ site.github.repository_nwo }}/blob/master/CONTRIBUTING.md">Suggest a link</a>.
+    <footer class="site-footer">
+      <div class="wrap">
+        Licensed under the <a href="{{ repo_url }}/blob/master/LICENSE">GNU GPL v3.0</a>.
+        Missing something? <a href="{{ contributing_url }}">Suggest a link</a>.
+      </div>
     </footer>
 
     {% if page.url == '/' %}
-    <script src="{{ '/assets/js/search.js' | relative_url }}"></script>
+    <button type="button" class="to-top" id="to-top" aria-label="Back to top" hidden>
+      <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5M5 12l7-7 7 7"/></svg>
+    </button>
+    <script src="{{ '/assets/js/search.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>
     {% endif %}
   </body>
 </html>
