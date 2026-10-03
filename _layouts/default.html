@@ -36,7 +36,7 @@
     <div class="toolbar" id="toolbar" hidden>
       <div class="wrap">
         <label class="search">
-          <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
           <input id="search" type="search" placeholder="Search the collection…" autocomplete="off" spellcheck="false" aria-label="Search the list">
           <span id="count" class="count" aria-live="polite"></span>
           <kbd title="Press / to search">/</kbd>
@@ -67,7 +67,7 @@
 
     {% if page.url == '/' %}
     <button type="button" class="to-top" id="to-top" aria-label="Back to top" hidden>
-      <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5M5 12l7-7 7 7"/></svg>
+      <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5M5 12l7-7 7 7"/></svg>
     </button>
     <script src="{{ '/assets/js/search.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>
     {% endif %}
