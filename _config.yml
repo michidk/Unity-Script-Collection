@@ -1,1 +1,5 @@
-theme: jekyll-theme-minimal
+title: Unity Script Collection
+description: A maintained collection of useful & free Unity scripts, libraries, plugins and extensions.
+lang: en
+exclude:
+  - renovate.json

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+    <title>{% if page.url != '/' and page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <nav class="links">
+          <a href="https://github.com/{{ site.github.repository_nwo }}/blob/master/CONTRIBUTING.md">Contribute</a>
+          <a href="https://github.com/{{ site.github.repository_nwo }}">GitHub</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="wrap">
+      {% if page.url == '/' %}
+      <div class="toolbar" id="toolbar" hidden>
+        <input id="search" type="search" placeholder="Search {{ site.title }}…  (press / to focus)" autocomplete="off" spellcheck="false" aria-label="Search the list">
+        <span id="count" class="count" aria-live="polite"></span>
+        <nav id="categories" class="categories" aria-label="Categories"></nav>
+      </div>
+      {% endif %}
+
+      <article class="content{% if page.url == '/' %} list{% endif %}" id="content">
+        {{ content }}
+      </article>
+
+      <p id="empty" class="empty" hidden>No entries match your search.</p>
+    </main>
+
+    <footer class="site-footer wrap">
+      Licensed under the <a href="https://github.com/{{ site.github.repository_nwo }}/blob/master/LICENSE">GNU GPL v3.0</a>.
+      Missing something? <a href="https://github.com/{{ site.github.repository_nwo }}/blob/master/CONTRIBUTING.md">Suggest a link</a>.
+    </footer>
+
+    {% if page.url == '/' %}
+    <script src="{{ '/assets/js/search.js' | relative_url }}"></script>
+    {% endif %}
+  </body>
+</html>
