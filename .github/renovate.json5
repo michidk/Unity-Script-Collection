@@ -1,0 +1,15 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "github>michidk/workflows//templates/renovate"
+  ],
+  "packageRules": [
+    {
+      "matchManagers": [
+        "bun",
+        "npm"
+      ],
+      "groupName": "All JavaScript Dependencies"
+    }
+  ]
+}
